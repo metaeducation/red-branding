@@ -13,7 +13,7 @@ It's not particularly important to have a "brand" for Red/System separate from t
 
 The rim of the atom is one unit in width. The center circle has a diameter of 5 units, while the circle on the top of the rim has a diameter of 2 units.
 
-![Proportionality](https://raw.github.com/red/branding/master/red-system-proportions.png)
+![Proportionality](https://raw.github.com/red/branding/master/red-system/red-system-proportions.png)
 
 
 ## File Format Notes

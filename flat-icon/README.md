@@ -1,4 +1,4 @@
-![Red Flat Logo in Color](https://raw.github.com/red/branding/master/flat-logo/flat-icon-color-128x128.png)
+![Red Flat Logo in Color](https://raw.github.com/red/branding/master/flat-icon/flat-icon-color-128x128.png)
 
 # RED LANGUAGE ICON : FLAT VARIATION
 
@@ -9,7 +9,7 @@ The "flat icon" representing the Red language is a stylized representation of th
 
 The three bars are spaced by a distance half their height, and the proportions of their widths are 4:7:10
 
-![Proportionality](https://raw.github.com/red/branding/master/flat-logo/flat-icon-proportions.png)
+![Proportionality](https://raw.github.com/red/branding/master/flat-icon/flat-icon-proportions.png)
 
 The bounding box is optional.  If present, it should use the proportionality of being the same thickness as the gap between the bars.  It should be spaced from the left and right by twice that distance, and from the top and bottom by three times that distance.
 
