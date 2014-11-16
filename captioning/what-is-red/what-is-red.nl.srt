@@ -1,0 +1,3183 @@
+1
+00:00:10,593 --> 00:00:14,410
+Onze volgende spreker is Nenad Rakocevic
+
+2
+00:00:14,410 --> 00:00:17,039
+die presenteert "Wat is Red"
+
+3
+00:00:17,039 --> 00:00:22,496
+( applaus )
+
+4
+00:00:22,886 --> 00:00:27,767
+Dank je, Gregg. En dank aan alle mensen
+
+5
+00:00:27,767 --> 00:00:31,908
+die doneerden voor mijn reiskosten
+
+6
+00:00:31,908 --> 00:00:33,728
+zodat ik kon komen.
+
+7
+00:00:33,728 --> 00:00:36,932
+Ik geef veel Red presentaties
+
+8
+00:00:36,932 --> 00:00:43,013
+maar nieuwkomers in Red komen nog steeds naar mij
+
+9
+00:00:43,013 --> 00:00:45,517
+met deze eenvoudige vraag:
+
+10
+00:00:45,517 --> 00:00:47,400
+ " Wat is Red? "
+
+11
+00:00:47,400 --> 00:00:50,166
+Omdat het project zo veel aspecten heeft
+
+12
+00:00:50,166 --> 00:00:51,741
+en ik snap dat wel.
+
+13
+00:00:51,741 --> 00:00:54,042
+Dus ik zal proberen in deze presentatie om
+
+14
+00:00:54,042 --> 00:00:58,673
+een goed beeld te geven van elk deel van het project.
+
+15
+00:00:58,673 --> 00:01:02,522
+Dus laten we beginnen met een overzicht van het probleem.
+
+16
+00:01:02,522 --> 00:01:06,517
+Dit is niet een foto van mijn hersencellen.
+
+17
+00:01:06,517 --> 00:01:10,566
+Het is een computermodel van een globale kaart
+
+18
+00:01:10,566 --> 00:01:12,772
+van het bekende universum.
+
+19
+00:01:12,772 --> 00:01:14,740
+Dat geeft je een goed beeld
+
+20
+00:01:14,740 --> 00:01:18,230
+van de omvang van het probleem ( gelach )
+
+21
+00:01:18,230 --> 00:01:20,329
+En eigenlijk is het een hint op
+
+22
+00:01:20,329 --> 00:01:23,036
+wat ik moest worden
+
+23
+00:01:23,036 --> 00:01:26,011
+want ik studeerde astrofysica
+
+24
+00:01:26,011 --> 00:01:30,570
+later ben ik overgestapt op de studierichting Informatica.
+
+25
+00:01:30,570 --> 00:01:34,589
+Mijn beeld van de computerwereld is dat
+
+26
+00:01:34,589 --> 00:01:38,792
+zelfs vandaag de dag gebruiken we slechts enkele primitieve
+
+27
+00:01:38,792 --> 00:01:41,018
+tools en technieken.
+
+28
+00:01:41,018 --> 00:01:44,653
+Dus we zijn niet erg ver van deze twee jongens
+
+29
+00:01:44,653 --> 00:01:46,357
+op de software kant.
+
+30
+00:01:46,357 --> 00:01:49,283
+We doen alles op een zeer primitieve manier
+
+31
+00:01:49,283 --> 00:01:51,928
+want we vinden telkens opnieuw het wiel uit
+
+32
+00:01:51,928 --> 00:01:54,513
+en maken constant dezelfde fouten
+
+33
+00:01:54,513 --> 00:01:56,041
+opnieuw en opnieuw.
+
+34
+00:01:56,041 --> 00:01:58,892
+Dus AI zal lachen.
+
+35
+00:01:58,902 --> 00:02:02,541
+Dat hoop ik tenminste. :-) ( Gelach )
+
+36
+00:02:02,541 --> 00:02:08,308
+Dus om weer terug te gaan naar het onderwerp
+
+37
+00:02:08,308 --> 00:02:12,563
+er zijn eigenlijk heel veel programmeertalen
+
+38
+00:02:12,563 --> 00:02:14,927
+Kijk naar de lijst op Wikipedia van
+
+39
+00:02:14,927 --> 00:02:18,596
+programmeertalen, dit is slechts het A deel
+
+40
+00:02:18,596 --> 00:02:23,107
+en die pagina is niet eens volledig.
+
+41
+00:02:23,107 --> 00:02:24,802
+Dus er zijn letterlijk duizenden
+
+42
+00:02:24,802 --> 00:02:27,188
+programmeertalen.
+
+43
+00:02:27,188 --> 00:02:29,588
+Als je daar kijkt zul je sommige talen zien
+
+44
+00:02:29,588 --> 00:02:32,839
+die zijn gemaakt op de Amiga.
+
+45
+00:02:32,839 --> 00:02:34,465
+De beroemde "Amiga E"
+
+46
+00:02:34,465 --> 00:02:37,288
+en AMOS dat gemaakt is door een Franse jongen...
+
+47
+00:02:37,288 --> 00:02:42,988
+een zeer pientere man, die François Lionet heet.
+
+48
+00:02:42,988 --> 00:02:46,500
+Deze Basic heeft een DSL.
+
+49
+00:02:46,500 --> 00:02:50,240
+Het was een hulpmiddel dat ik vroeger had
+
+50
+00:02:50,240 --> 00:02:52,899
+meer dan 20 jaar geleden.
+
+51
+00:02:52,899 --> 00:02:56,445
+De DSL was bedoeld voor animaties...
+
+52
+00:02:56,445 --> 00:03:00,268
+... het werd gecompileerd naar native code.
+
+53
+00:03:00,268 --> 00:03:04,439
+En de hele interpreter en compiler en IDE
+
+54
+00:03:04,439 --> 00:03:10,624
+voor AMOS werd volledig geschreven in assembler.
+
+55
+00:03:10,624 --> 00:03:15,262
+Dus deze man was nogal een inspiratie voor mij.
+
+56
+00:03:15,262 --> 00:03:19,448
+Ondanks de vele programmeertalen
+
+57
+00:03:19,448 --> 00:03:22,985
+en tools, zoeken we nog naar een nieuwere,
+
+58
+00:03:22,985 --> 00:03:25,197
+betere oplossing.
+
+59
+00:03:25,197 --> 00:03:28,035
+De problemen waarmee we elke dag geconfronteerd worden
+
+60
+00:03:28,035 --> 00:03:31,225
+in de softwarewereld zijn vrij bekend nu
+
+61
+00:03:31,225 --> 00:03:34,345
+maar we blijven ze tegenkomen.
+
+62
+00:03:34,345 --> 00:03:37,582
+Zoals exploderende complexiteit... bloatware...
+
+63
+00:03:37,582 --> 00:03:40,334
+Nee ik bedoel niet Java, natuurlijk. ( gelach )
+
+64
+00:03:40,334 --> 00:03:42,225
+Ik denk niet aan Java. :-P
+
+65
+00:03:42,225 --> 00:03:44,769
+Trage prestaties... Zwarte dozen, zoals
+
+66
+00:03:44,769 --> 00:03:46,554
+closed source software, bijvoorbeeld.
+
+67
+00:03:46,554 --> 00:03:49,598
+Die vaak een groot probleem opleveren 
+
+68
+00:03:49,598 --> 00:03:53,461
+om bugs die je niet kan bereiken op te lossen.
+
+69
+00:03:53,461 --> 00:03:57,872
+Dus in plaats van tijdverspilling om tegen deze muren te lopen
+
+70
+00:03:57,872 --> 00:04:00,348
+zouden we plezier moeten hebben met programmeren
+
+71
+00:04:00,348 --> 00:04:02,665
+omdat programmeren gaat om het plezier ervan.
+
+72
+00:04:02,665 --> 00:04:05,265
+En dit is de houding die we moeten hebben wanneer
+
+73
+00:04:05,265 --> 00:04:07,852
+we aan onze computer zitten en werken.
+
+74
+00:04:07,852 --> 00:04:11,400
+Het is net als vroeger toen programmeren
+
+75
+00:04:11,400 --> 00:04:13,440
+*puur* plezier was.
+
+76
+00:04:13,440 --> 00:04:16,441
+Sindsdien zijn, sinds de jaren 80,
+
+77
+00:04:16,441 --> 00:04:19,490
+veel revoluties geweest.
+
+78
+00:04:19,490 --> 00:04:21,716
+En op dit moment hebben we twee - denk ik -
+
+79
+00:04:21,716 --> 00:04:25,710
+zeer belangrijke veranderingen in de computerwereld.
+
+80
+00:04:25,710 --> 00:04:28,281
+De eerste is het verhogen van de rekenkracht
+
+81
+00:04:28,281 --> 00:04:31,224
+van computers door het toevoegen van nieuwe kernen
+
+82
+00:04:31,224 --> 00:04:34,934
+in plaats van het verhogen van de frequentie van de CPU.
+
+83
+00:04:34,934 --> 00:04:39,320
+Dit heeft diepe implicaties voor programmeertools.
+
+84
+00:04:39,320 --> 00:04:44,062
+De andere belangrijke revolutie is dat we allemaal nu
+
+85
+00:04:44,062 --> 00:04:46,772
+schakelen naar mobiele apparaten.
+
+86
+00:04:46,772 --> 00:04:49,987
+De markt verandert zeer snel.
+
+87
+00:04:49,987 --> 00:04:52,947
+Dus de programmeertools moeten ook worden aangepast.
+
+88
+00:04:52,947 --> 00:04:56,540
+Ondanks deze veranderingen,
+
+89
+00:04:56,540 --> 00:04:59,593
+werken we met zeer oude werktuigen, in feite.
+
+90
+00:04:59,593 --> 00:05:03,677
+Dus ik nam de vijf meest populaire
+
+91
+00:05:03,677 --> 00:05:07,004
+programmeertalen van de Tiobe index...
+
+92
+00:05:07,004 --> 00:05:09,111
+... de beroemde index.
+
+93
+00:05:09,111 --> 00:05:12,114
+Ja, C is nog steeds de belangrijkste
+
+94
+00:05:12,114 --> 00:05:14,672
+en het is er al bijna 40 jaar.
+
+95
+00:05:14,672 --> 00:05:18,748
+Dat is een behoorlijk lange tijd in de informatica!
+
+96
+00:05:18,748 --> 00:05:22,984
+En C is absoluut niet bedoeld voor
+
+97
+00:05:22,984 --> 00:05:25,417
+de moderne computertaken.
+
+98
+00:05:25,417 --> 00:05:27,973
+En als je kijkt naar de anderen
+
+99
+00:05:27,973 --> 00:05:30,784
+dat is bijna min of meer hetzelfde.
+
+100
+00:05:30,784 --> 00:05:33,205
+Gelukkig voor ons, sommige mensen...
+
+101
+00:05:33,205 --> 00:05:36,211
+... een aantal zeer zeldzame mensen dit beseften
+
+102
+00:05:36,211 --> 00:05:41,981
+en in staat tot het geven van een antwoord op deze kwesties.
+
+103
+00:05:41,981 --> 00:05:45,129
+Mensen als Carl ( gebaart naar Carl Sassenrath )
+
+104
+00:05:45,129 --> 00:05:47,309
+die Rebol heeft uitgevonden... fantastisch hulpmiddel.
+
+105
+00:05:47,309 --> 00:05:50,383
+Waarschijnlijk een van de grootste uitvindingen
+
+106
+00:05:50,383 --> 00:05:55,080
+in de programmeerwereld in de laatste 20 jaar.
+
+107
+00:05:55,080 --> 00:05:57,875
+Dus Rebol was een goede oplossing, of een zeer
+
+108
+00:05:57,875 --> 00:06:00,598
+goede oplossing voor veel problemen.
+
+109
+00:06:00,598 --> 00:06:01,978
+*Maar niet alle.*
+
+110
+00:06:01,978 --> 00:06:05,352
+Iets dat ik zou willen laten zien aan Carl...
+
+111
+00:06:05,352 --> 00:06:08,556
+... misschien heeft hij het niet gezien?
+
+112
+00:06:08,556 --> 00:06:12,917
+De wonderen die Rebol deed, tot voor kort,
+
+113
+00:06:12,917 --> 00:06:17,277
+was eenvoudig de Rebol gemeenschap prees het
+
+114
+00:06:17,277 --> 00:06:20,004
+en probeerde uit te leggen aan mensen hoe Rebol
+
+115
+00:06:20,004 --> 00:06:23,947
+een productief instrument was, en expressief.
+
+116
+00:06:23,947 --> 00:06:28,282
+Maar onlangs probeerde een wetenschappelijke studie te meten
+
+117
+00:06:28,282 --> 00:06:32,133
+wat de expressiviteit van programmeertalen was.
+
+118
+00:06:32,133 --> 00:06:37,597
+Dus deden ze het. En Rebol... *verrassing*! Is nummer 3.
+
+119
+00:06:37,597 --> 00:06:41,516
+In feite : nummer 1 en nummer 2 zijn DSL's.
+
+120
+00:06:41,516 --> 00:06:44,526
+Dus raad eens wie is eigenlijk de eerste ? ( gelach )
+
+121
+00:06:44,526 --> 00:06:49,040
+Dat bevestigt alleen maar iets dat we allemaal al wisten
+
+122
+00:06:49,040 --> 00:06:51,141
+sinds het begin.
+
+123
+00:06:51,141 --> 00:06:53,307
+Rebol is een zeer productief instrument
+
+124
+00:06:53,307 --> 00:06:55,935
+en dat is nu bewezen. ( gelach )
+
+125
+00:06:55,935 --> 00:07:00,715
+Maar Red probeert verder te gaan dan wat Rebol doet.
+
+126
+00:07:00,715 --> 00:07:03,002
+Vooral in termen van implementatie
+
+127
+00:07:03,002 --> 00:07:06,519
+niet in termen van taal semantiek of syntax.
+
+128
+00:07:06,519 --> 00:07:10,458
+Maar meer in termen van toolchain, implementaties,
+
+129
+00:07:10,458 --> 00:07:13,065
+en verspreiding.
+
+130
+00:07:13,065 --> 00:07:16,160
+Dus wat is Red, echt ?
+
+131
+00:07:16,160 --> 00:07:17,653
+Red is wat ik noem
+
+132
+00:07:17,653 --> 00:07:19,212
+een *Full-Stack Programming Language*
+
+133
+00:07:19,212 --> 00:07:22,317
+Misschien heb je gehoord over full-stack ontwikkelaars?
+
+134
+00:07:22,317 --> 00:07:25,796
+Dus dit is een full-stack programmeertaal.
+
+135
+00:07:25,796 --> 00:07:28,995
+En waarschijnlijk is het belangrijkste kenmerk
+
+136
+00:07:28,995 --> 00:07:31,188
+is dat het een echte algemene
+
+137
+00:07:31,188 --> 00:07:33,287
+programmeeroplossing is.
+
+138
+00:07:33,287 --> 00:07:35,182
+Er zijn vele talen
+
+139
+00:07:35,182 --> 00:07:39,288
+die *adverteren* voor algemeen gebruik te zijn...
+
+140
+00:07:39,288 --> 00:07:43,358
+... maar ze zijn niet zo breed als Red kan zijn.
+
+141
+00:07:43,358 --> 00:07:47,121
+Het andere grote kenmerk van Red
+
+142
+00:07:47,121 --> 00:07:49,413
+is dat het een stand-alone toolchain is
+
+143
+00:07:49,413 --> 00:07:52,050
+dus niet afhankelijk van de standaard
+
+144
+00:07:52,050 --> 00:07:56,488
+klassieke C toolchain, wij hebben onze eigen.
+
+145
+00:07:56,488 --> 00:07:59,648
+Een ander belangrijk aspect van Red
+
+146
+00:07:59,648 --> 00:08:01,421
+is het gaat over *vrijheid*.
+
+147
+00:08:01,421 --> 00:08:03,695
+Sinds het begin is mijn motivatie voor Red
+
+148
+00:08:03,695 --> 00:08:07,334
+om los van elke vorm van beperking te komen
+
+149
+00:08:07,334 --> 00:08:08,995
+en elke vorm van begrenzing.
+
+150
+00:08:08,995 --> 00:08:14,230
+Ik wil dat gebruikers van Red hetzelfde voelen.
+
+151
+00:08:14,230 --> 00:08:18,165
+Dus Red is eenvoudig te gebruiken, *dankzij Rebol*...
+
+152
+00:08:18,165 --> 00:08:23,770
+... maar Red heeft geen willekeurige beperkingen.
+
+153
+00:08:23,770 --> 00:08:26,374
+We proberen om in elke mogelijke behoefte te voorzien
+
+154
+00:08:26,374 --> 00:08:28,138
+en alle mogelijke aspecten, zodat het
+
+155
+00:08:28,138 --> 00:08:33,154
+kan worden ingezet, geport naar elk platform dat we nodig hebben.
+
+156
+00:08:33,154 --> 00:08:35,799
+Ook iets heel belangrijks in programmeren:
+
+157
+00:08:35,799 --> 00:08:39,061
+je moet het gevoel van controle hebben over je gereedschap.
+
+158
+00:08:39,061 --> 00:08:42,836
+Vaak gebruik je een aantal tools die krachtig zijn
+
+159
+00:08:42,836 --> 00:08:44,878
+maar je kunt ze niet controleren of beheersen, omdat
+
+160
+00:08:44,878 --> 00:08:47,250
+je niet begrijpt wat er binnenin gebeurt.
+
+161
+00:08:47,250 --> 00:08:48,730
+Vaak omdat het zwarte dozen zijn.
+
+162
+00:08:48,730 --> 00:08:52,495
+Of omdat ze onderdeel zijn van een grote stapel lagen
+
+163
+00:08:52,495 --> 00:08:56,225
+van software, zodat je niet zomaar begrijpt
+
+164
+00:08:56,225 --> 00:08:57,921
+wat er van binnen gebeurt.
+
+165
+00:08:57,921 --> 00:09:02,394
+En een belangrijke laatste is :-)
+
+166
+00:09:02,394 --> 00:09:04,521
+is het *Fun*? Ja, we willen het plezier terug.
+
+167
+00:09:04,521 --> 00:09:08,808
+Sommige mensen die Red probeerden 
+
+168
+00:09:08,808 --> 00:09:11,465
+of Red/System, na het compileren en uitvoeren 
+
+169
+00:09:11,465 --> 00:09:14,262
+hun eerste programma 
+
+170
+00:09:14,262 --> 00:09:16,175
+kwamen terug naar mij en zeiden:
+
+171
+00:09:16,175 --> 00:09:17,367
+"Het is geweldig, want het is leuk."
+
+172
+00:09:17,367 --> 00:09:21,281
+"Ik probeerde het, en het werkte, en het was geweldig."
+
+173
+00:09:21,281 --> 00:09:25,132
+Mensen krijgen dat gevoel - waar ik het over had
+
+174
+00:09:25,132 --> 00:09:27,620
+Dat gevoel uit de jaren '80.
+
+175
+00:09:27,620 --> 00:09:29,347
+Waar je het gevoel had echt in control
+
+176
+00:09:29,347 --> 00:09:31,121
+te zijn van je programmeersoftware.
+
+177
+00:09:31,121 --> 00:09:34,387
+Dus ik zal proberen uit te leggen wat ik bedoel met
+
+178
+00:09:34,387 --> 00:09:36,782
+"Full-Stack Programming Language " en
+
+179
+00:09:36,782 --> 00:09:40,455
+"True General-Purpose Programming Language ".
+
+180
+00:09:40,455 --> 00:09:42,096
+Dus maakte ik deze grafiek :
+
+181
+00:09:42,096 --> 00:09:43,414
+"Domain Toepassingsgebieden"
+
+182
+00:09:43,414 --> 00:09:46,570
+voor een paar van de belangrijkste programmeertalen.
+
+183
+00:09:46,570 --> 00:09:49,393
+Zo kun je zien assembler is voor drivers
+
+184
+00:09:49,393 --> 00:09:52,019
+en zeer low-level code.
+
+185
+00:09:52,019 --> 00:09:54,895
+Je kunt zien dat Java echt beperkt is in zijn
+
+186
+00:09:54,895 --> 00:09:58,084
+mogelijkheid om verschillende abstractieniveaus aan te pakken.
+
+187
+00:09:58,084 --> 00:10:00,607
+Ruby is heel breed;
+
+188
+00:10:00,607 --> 00:10:02,989
+misschien gaat het niet naar beneden naar het OS?
+
+189
+00:10:02,989 --> 00:10:05,598
+Ik weet niet of de Ruby interface
+
+190
+00:10:05,598 --> 00:10:09,888
+voor de CALL's naar het OS API echt goed is of niet.
+
+191
+00:10:09,888 --> 00:10:13,324
+Rebol heeft nogal een brede scope.
+
+192
+00:10:13,324 --> 00:10:16,880
+Rascal is een zeer specifieke programmeertaal.
+
+193
+00:10:16,880 --> 00:10:19,540
+Het is een soort van DSL,
+
+194
+00:10:19,540 --> 00:10:23,246
+die bedoeld is voor het schrijven van andere DSL-en.
+
+195
+00:10:23,246 --> 00:10:26,522
+Dus het staat op meta-DSL niveau.
+
+196
+00:10:26,522 --> 00:10:30,356
+Dus waar staat Red op die schaal?
+
+197
+00:10:30,356 --> 00:10:33,954
+Nou Red is gericht op al deze behoeften
+
+198
+00:10:33,954 --> 00:10:37,272
+van beneden naar boven.
+
+199
+00:10:37,272 --> 00:10:40,596
+Want ik wil niet hoeven te vertrouwen op een ander instrument.
+
+200
+00:10:40,596 --> 00:10:43,056
+Ik wil de Red programmeertaal
+
+201
+00:10:43,056 --> 00:10:45,913
+voor al deze behoeften
+
+202
+00:10:45,913 --> 00:10:48,272
+zonder te vertrouwen op iets anders.
+
+203
+00:10:48,272 --> 00:10:51,236
+Dus nu zal je me vertellen dat het volstrekt onmogelijk is
+
+204
+00:10:51,236 --> 00:10:53,307
+om een taal te maken
+
+205
+00:10:53,307 --> 00:10:56,058
+die dat allemaal kan.
+
+206
+00:10:56,058 --> 00:10:58,201
+En je zult gelijk hebben.
+
+207
+00:10:58,201 --> 00:11:00,771
+Maar Red heeft een troef.
+
+208
+00:11:00,771 --> 00:11:04,418
+Red/System omvat de lage lagen
+
+209
+00:11:04,418 --> 00:11:06,604
+en Red dekt de bovenste lagen.
+
+210
+00:11:06,604 --> 00:11:10,037
+Ze zijn met elkaar geïntegreerd
+
+211
+00:11:10,037 --> 00:11:11,702
+en werken samen.
+
+212
+00:11:11,702 --> 00:11:15,114
+Dus Red/System is in feite een dialect van Red.
+
+213
+00:11:15,114 --> 00:11:17,191
+Je kan het afzonderlijk gebruiken
+
+214
+00:11:17,191 --> 00:11:20,112
+of compleet ingebed in Red.
+
+215
+00:11:20,112 --> 00:11:25,446
+Laten we eens een kijken naar de platforms die we ondersteunen.
+
+216
+00:11:25,446 --> 00:11:26,597
+Eerst op het bureaublad,
+
+217
+00:11:26,597 --> 00:11:30,755
+wij steunen de klassieke 3 hoofdrolspelers.
+
+218
+00:11:30,755 --> 00:11:34,424
+We ondersteunen ook een aantal extra
+
+219
+00:11:34,424 --> 00:11:36,693
+besturingssystemen zoals Syllable.
+
+220
+00:11:36,693 --> 00:11:38,829
+Wij zouden FreeBSD ook graag ondersteunen
+
+221
+00:11:38,829 --> 00:11:41,350
+maar we hadden een aantal low-level problemen
+
+222
+00:11:41,350 --> 00:11:45,053
+en geen FreeBSD experts onder ons
+
+223
+00:11:45,053 --> 00:11:48,456
+om deze op te lossen, dus voor nu is het een beetje vastgelopen.
+
+224
+00:11:48,456 --> 00:11:52,454
+Maar we kunnen waarschijnlijk Red geport krijgen
+
+225
+00:11:52,454 --> 00:11:54,855
+op FreeBSD.
+
+226
+00:11:54,855 --> 00:11:57,687
+Dan willen we ook bespelen
+
+227
+00:11:57,687 --> 00:12:00,774
+de embedded markt, te beginnen met Android.
+
+228
+00:12:00,774 --> 00:12:02,771
+dat we al ondersteunen.
+
+229
+00:12:02,771 --> 00:12:04,787
+En zal de volgende iOS zijn.
+
+230
+00:12:04,787 --> 00:12:07,905
+En we al draaien op Raspberry Pi
+
+231
+00:12:07,905 --> 00:12:10,367
+die heel populair aan het worden is.
+
+232
+00:12:10,367 --> 00:12:14,720
+Ik denk dat Bo enkele demonstraties geeft...
+
+233
+00:12:14,720 --> 00:12:17,929
+...misschien morgen.
+
+234
+00:12:17,929 --> 00:12:22,868
+We hebben ook een experimentele port op Arduino
+
+235
+00:12:22,868 --> 00:12:27,030
+We zijn begonnen met AVR 8-bit.
+
+236
+00:12:27,030 --> 00:12:30,044
+Maar het is een experiment voor nu
+
+237
+00:12:30,044 --> 00:12:32,895
+omdat er andere borden komen
+
+238
+00:12:32,895 --> 00:12:36,014
+zoals 32-bit boards of de Raspberry Pi.
+
+239
+00:12:36,014 --> 00:12:41,790
+Dus 8-bits ondersteuning is niet direct het ding om nu te doen.
+
+240
+00:12:41,790 --> 00:12:45,320
+We willen ook virtuele machines te ondersteunen.
+
+241
+00:12:45,320 --> 00:12:49,753
+We willen in staat zijn om verbinding te maken met dotNET
+
+242
+00:12:49,753 --> 00:12:53,139
+de JVM, en JavaScript.
+
+243
+00:12:53,139 --> 00:12:55,602
+Er zijn in principe twee methoden
+
+244
+00:12:55,602 --> 00:12:56,467
+om dit te bereiken.
+
+245
+00:12:56,467 --> 00:13:00,940
+We kunnen een brug hebben, houden Red zoals het nu is
+
+246
+00:13:00,940 --> 00:13:06,438
+en overbruggen met deze virtuele machines.
+
+247
+00:13:06,438 --> 00:13:08,746
+Of we kunnen een nieuwe backend ontwikkelen
+
+248
+00:13:08,746 --> 00:13:11,146
+voor Red en Red/System
+
+249
+00:13:11,146 --> 00:13:13,710
+en direct compileren naar bytecode
+
+250
+00:13:13,710 --> 00:13:15,817
+van deze virtuele machines.
+
+251
+00:13:15,817 --> 00:13:17,905
+Dus hebben we die twee opties.
+
+252
+00:13:17,905 --> 00:13:21,645
+We zijn begonnen met het maken van enkele bruggen naar de JVM.
+
+253
+00:13:21,645 --> 00:13:26,405
+We zullen proberen om elke keer te kiezen
+
+254
+00:13:26,405 --> 00:13:30,067
+voor de juiste oplossing - de beste voor de job.
+
+255
+00:13:30,067 --> 00:13:33,188
+Dus nu hebben we overbrugging met de JVM.
+
+256
+00:13:33,188 --> 00:13:37,997
+Maar we zullen waarschijnlijk direct compileren naar JavaScript.
+
+257
+00:13:37,997 --> 00:13:41,551
+We hebben nu asm.js, dus we hebben
+
+258
+00:13:41,551 --> 00:13:45,325
+echt een interessant platform te ondersteunen.
+
+259
+00:13:45,325 --> 00:13:47,584
+Ik verwacht dat Red en Red/System
+
+260
+00:13:47,584 --> 00:13:50,755
+heel snel daarop zullen zijn.
+
+261
+00:13:50,755 --> 00:13:53,753
+Meer praktisch, gewoon een beeld van hoe het werkt
+
+262
+00:13:53,753 --> 00:13:57,242
+Dus je hebt Red: een binair bestand.
+
+263
+00:13:57,242 --> 00:14:01,118
+Dat downloadt je en je krijgt al deze functies.
+
+264
+00:14:01,118 --> 00:14:04,756
+Je kunt een Red script direct vanuit uit het geheugen draaien.
+
+265
+00:14:04,756 --> 00:14:08,124
+Je kunt compileren naar een executable.
+
+266
+00:14:08,124 --> 00:14:12,805
+U kunt cross-compileren...
+
+267
+00:14:12,805 --> 00:14:15,324
+Daar zal ik later op terugkomen.
+
+268
+00:14:15,324 --> 00:14:19,071
+U kunt Red/System scripts ook direct compileren,
+
+269
+00:14:19,071 --> 00:14:22,291
+als je geen Red laag wilt gebruiken
+
+270
+00:14:22,291 --> 00:14:26,063
+maar je wilt een low-level applicatie maken.
+
+271
+00:14:26,063 --> 00:14:29,955
+En je kunt ook nu gedeelde bibliotheken compileren
+
+272
+00:14:29,955 --> 00:14:32,948
+dat opent de deur voor het verspreiden van Red
+
+273
+00:14:32,948 --> 00:14:36,582
+door het overal waar we kunnen te gebruiken.
+
+274
+00:14:36,582 --> 00:14:39,954
+U kunt ook Red starten in een console-modus
+
+275
+00:14:39,954 --> 00:14:42,206
+want we hebben een Red console.
+
+276
+00:14:42,206 --> 00:14:45,499
+Dus cross-compilatie... Red is nu in staat om cross-compileren
+
+277
+00:14:45,499 --> 00:14:49,442
+naar andere systemen, van elk systeem naar het andere.
+
+278
+00:14:49,442 --> 00:14:52,731
+In feite is het kunnen compileren vanaf elk platform
+
+279
+00:14:52,731 --> 00:14:56,113
+waar Rebol loopt naar een ander platform.
+
+280
+00:14:56,113 --> 00:15:00,808
+Om dat te doen heb je geen HOWTO nodig
+
+281
+00:15:00,808 --> 00:15:02,363
+Ook geen tutorial.
+
+282
+00:15:02,363 --> 00:15:04,788
+Niets op het internet te zoeken
+
+283
+00:15:04,788 --> 00:15:07,182
+hoe dit te doen.
+
+284
+00:15:07,182 --> 00:15:10,293
+Je geeft gewoon een "-t" commando en het gewenst doelplatform mee
+
+285
+00:15:10,293 --> 00:15:11,777
+en dat is alles.
+
+286
+00:15:11,777 --> 00:15:16,750
+Een doelplatform is slechts een vermelding in een configuratiebestand
+
+287
+00:15:16,750 --> 00:15:21,988
+Een eenvoudig Red dialect, waar we alleen een lijst van
+
+288
+00:15:21,988 --> 00:15:26,132
+een aantal opties voor het doelplatform in hebben.
+
+289
+00:15:26,132 --> 00:15:31,110
+Op dit moment hebben we op deze lijst ongeveer 8 doelen
+
+290
+00:15:31,110 --> 00:15:33,602
+Dus we kunnen cross- compileren van eenzelfde
+
+291
+00:15:33,602 --> 00:15:35,828
+alle andere, zolang Rebol
+
+292
+00:15:35,828 --> 00:15:40,124
+draait op het source platform.
+
+293
+00:15:40,124 --> 00:15:41,557
+Dus zoals je kunt zien ondersteunen we vooral
+
+294
+00:15:41,557 --> 00:15:45,594
+x86-en ARM-gebaseerde platforms.
+
+295
+00:15:45,594 --> 00:15:49,412
+Om een beetje dieper in de toolchain te kijken
+
+296
+00:15:49,412 --> 00:15:51,796
+hebben we een aantal onderdelen.
+
+297
+00:15:51,796 --> 00:15:54,506
+We hebben het klassieke paar: compiler, linker.
+
+298
+00:15:54,506 --> 00:16:01,832
+De compiler laag is in staat om vooral te richten naar 
+
+299
+00:16:01,832 --> 00:16:07,115
+die twee backends, x86 en ARM.
+
+300
+00:16:07,115 --> 00:16:11,919
+Maar we zijn van plan om het uit te breiden ter ondersteuning ARMv7
+
+301
+00:16:11,919 --> 00:16:17,236
+"duim mode" en 64-bits platforms.
+
+302
+00:16:17,236 --> 00:16:22,287
+We zullen ook de virtuele machine backends toevoegen.
+
+303
+00:16:22,287 --> 00:16:26,207
+Dus JavaScript, JVM bytecode... Dex voor Dalvik
+
+304
+00:16:26,207 --> 00:16:30,153
+als alternatief voor de JVM op Android platform.
+
+305
+00:16:30,153 --> 00:16:34,462
+En MSIL staat voor de naam bytecode
+
+306
+00:16:34,462 --> 00:16:37,043
+voor dotNET platform.
+
+307
+00:16:37,043 --> 00:16:39,737
+De linker is de ondersteuning voor de belangrijkste bestandsformaten.
+
+308
+00:16:39,737 --> 00:16:43,532
+We zullen het uitbreiden naar statische bibliotheken.
+
+309
+00:16:43,532 --> 00:16:46,418
+Dus je zult in staat zijn om een Red programma te compileren
+
+310
+00:16:46,418 --> 00:16:51,578
+als een statische bibliotheek en deze later linken
+
+311
+00:16:51,578 --> 00:16:55,233
+met andere externe toolchain, zoals bv een in C.
+
+312
+00:16:55,233 --> 00:16:59,655
+Dat is een alternatieve manier om Red verspreiden
+
+313
+00:16:59,655 --> 00:17:02,448
+en om mensen in staat te stellen Red gebruiken
+
+314
+00:17:02,448 --> 00:17:04,962
+via derde partij toolchain talen / applicaties.
+
+315
+00:17:04,962 --> 00:17:09,242
+En we gaan ook omlaag naar het kernel-niveau
+
+316
+00:17:09,242 --> 00:17:14,305
+en wij zullen ondersteuning bieden voor het bouwen van
+
+317
+00:17:14,305 --> 00:17:19,234
+kerneldrivers, of zelfs volledige besturingssystemen
+
+318
+00:17:19,234 --> 00:17:21,787
+rechtstreeks met Red.
+
+319
+00:17:21,787 --> 00:17:24,199
+En op dit moment hebben we experimenteel
+
+320
+00:17:24,199 --> 00:17:27,504
+Windows-kernel driver ondersteuning, al aan het werk.
+
+321
+00:17:27,504 --> 00:17:31,980
+Als er kerneldriver ontwikkelaars hier zijn...
+
+322
+00:17:31,980 --> 00:17:34,213
+je kunt hier veel plezier aan beleven! :-P
+
+323
+00:17:34,213 --> 00:17:37,458
+Laatste: iets dat niet bestaat
+
+324
+00:17:37,458 --> 00:17:40,247
+voor zover ik weet, in de klassieke C toolchain:
+
+325
+00:17:40,247 --> 00:17:42,530
+we zullen een verpakker-laag hebben
+
+326
+00:17:42,530 --> 00:17:46,044
+die nog niet is geïmplementeerd, maar zal binnenkort komen.
+
+327
+00:17:46,044 --> 00:17:51,589
+We beginnen met de Android APK backend.
+
+328
+00:17:51,589 --> 00:17:54,697
+Dus het doel van deze laag
+
+329
+00:17:54,697 --> 00:17:58,850
+is gewoon om meerdere bestanden te nemen en verpakken
+
+330
+00:17:58,850 --> 00:18:03,445
+en formatteert zoals het doelplatform verwacht.
+
+331
+00:18:03,445 --> 00:18:06,426
+Dus we zullen Android ondersteunen, we zullen iOS ondersteunen.
+
+332
+00:18:06,426 --> 00:18:08,997
+Maar een dergelijke verpakker kan dienen
+
+333
+00:18:08,997 --> 00:18:13,409
+voor het verpakken van webapplicaties.
+
+334
+00:18:13,409 --> 00:18:17,371
+Net als Java doet voor het .WAR-formaat
+
+335
+00:18:17,371 --> 00:18:20,196
+die zeer interessante capaciteiten heeft
+
+336
+00:18:20,196 --> 00:18:23,489
+zoals de vereenvoudiging van de implementatie van webtoepassingen
+
+337
+00:18:23,489 --> 00:18:25,276
+en de mogelijkheid voor versies
+
+338
+00:18:25,276 --> 00:18:27,050
+of rollback inzet
+
+339
+00:18:27,050 --> 00:18:29,342
+dat zijn prachtige dingen om te hebben.
+
+340
+00:18:29,342 --> 00:18:31,027
+Een ander aspect van de toolchain
+
+341
+00:18:31,027 --> 00:18:32,544
+is dat momenteel de toolchain
+
+342
+00:18:32,544 --> 00:18:36,774
+is bootstrapped in Rebol 2.
+
+343
+00:18:36,774 --> 00:18:40,686
+Dat werkt al twee jaar zo.
+
+344
+00:18:40,686 --> 00:18:46,907
+Maar de uiteindelijke Red zal een JIT compiler hebben.
+
+345
+00:18:46,907 --> 00:18:50,717
+Om een JIT-compiler te hebben we moeten gaan self-hosted.
+
+346
+00:18:50,717 --> 00:18:54,347
+Dus moet Red geschreven worden in Red.
+
+347
+00:18:54,347 --> 00:18:58,587
+Dat is de enige manier om een goede JIT-compiler te krijgen.
+
+348
+00:18:58,587 --> 00:19:03,543
+We zullen waarschijnlijk volgend jaar daaraan werken.
+
+349
+00:19:03,543 --> 00:19:07,550
+Ik heb een paar dia's over de Red taal zelf.
+
+350
+00:19:07,550 --> 00:19:10,796
+Maar ik zal niet teveel op details in gaan
+
+351
+00:19:10,796 --> 00:19:13,394
+omdat het te veel tijd zal vergen.
+
+352
+00:19:13,394 --> 00:19:18,018
+Het eerste ding om te begrijpen over de taal Red
+
+353
+00:19:18,018 --> 00:19:21,098
+is dat het heel dicht bij Rebol blijft.
+
+354
+00:19:21,098 --> 00:19:26,585
+Je hebt een aantal van de belangrijkste kenmerken van Rebol
+
+355
+00:19:26,585 --> 00:19:31,588
+zoals definitie scoping en dynamische binding.
+
+356
+00:19:31,588 --> 00:19:37,178
+Je hebt ook de mogelijkheid om te programmeren in Red
+
+357
+00:19:37,178 --> 00:19:40,106
+met behulp van welk paradigma je wilt.
+
+358
+00:19:40,106 --> 00:19:43,031
+Dit * "paradigma-neutraal" * is een uitdrukking
+
+359
+00:19:43,031 --> 00:19:46,673
+van Gabriele ( Santilli ) en ik vind het heel fijn
+
+360
+00:19:46,673 --> 00:19:50,013
+want het drukt echt goed dit vermogen uit
+
+361
+00:19:50,013 --> 00:19:53,878
+dat 't niet door een specifiek paradigma gebonden is.
+
+362
+00:19:55,318 --> 00:19:59,298
+Een verschil tussen de Red en Rebol
+
+363
+00:19:59,298 --> 00:20:05,376
+is dat je in Red optioneel lokale variabelen kunt typeren
+
+364
+00:20:05,376 --> 00:20:09,756
+en je kunt ook de return waarde 
+
+365
+00:20:09,756 --> 00:20:12,147
+van functies een type toekennen.
+
+366
+00:20:12,147 --> 00:20:17,048
+Dus in Rebol, heeft het niet veel betekenis
+
+367
+00:20:17,048 --> 00:20:25,102
+want het is een interpreter, en heeft het geen waarde.
+
+368
+00:20:25,102 --> 00:20:27,874
+Maar voor een compiler, heeft het grote waarde.
+
+369
+00:20:27,874 --> 00:20:33,604
+Omdat annoteren van die typen in de functie
+
+370
+00:20:33,604 --> 00:20:37,791
+de compiler in staat stelt om
+
+371
+00:20:37,791 --> 00:20:43,616
+veel meer gespecialiseerde, snellere en efficiënte code
+
+372
+00:20:43,616 --> 00:20:46,818
+dan zonder de annotaties te genereren.
+
+373
+00:20:47,728 --> 00:20:53,186
+Red is "eventueel getypeerd". Dus je kunt typen aangeven of niet.
+
+374
+00:20:53,186 --> 00:20:56,989
+Het hangt af van je behoeften, of de manier waarop je het programmeert.
+
+375
+00:20:56,989 --> 00:20:59,333
+Dus je kunt het doen op de Rebol manier
+
+376
+00:20:59,333 --> 00:21:01,619
+en die is zeer flexibel.
+
+377
+00:21:01,619 --> 00:21:06,168
+Maar je zal eindigen met tragere prestaties.
+
+378
+00:21:06,168 --> 00:21:08,549
+Of je kunt het op de statische manier
+
+379
+00:21:08,549 --> 00:21:10,581
+waar je alle typen aangeeft
+
+380
+00:21:10,581 --> 00:21:13,702
+en de compiler is in staat om meer soort controles te doen
+
+381
+00:21:13,702 --> 00:21:16,969
+zodat je een aantal waarschuwingen of enkele fouten krijgt
+
+382
+00:21:16,969 --> 00:21:21,230
+tijdens het compileren in plaats van op run-time.
+
+383
+00:21:21,230 --> 00:21:28,353
+Ook als je geen gebruik maakt van de typeannotaties
+
+384
+00:21:28,353 --> 00:21:31,687
+zal de compiler soms
+
+385
+00:21:31,687 --> 00:21:34,141
+een soort gevolgtrekking maken.
+
+386
+00:21:34,141 --> 00:21:36,654
+Zo kan hij de types voor je raden.
+
+387
+00:21:36,654 --> 00:21:41,093
+Maar Red, zoals Rebol, is een zeer dynamische taal
+
+388
+00:21:41,093 --> 00:21:48,734
+de mate waarin het relatiealgoritme
+
+389
+00:21:48,734 --> 00:21:53,581
+deze soorten kan raden is vrij beperkt.
+
+390
+00:21:53,581 --> 00:21:56,756
+Dus zal het een beetje hulp bieden maar niet al te veel.
+
+391
+00:21:56,756 --> 00:22:01,167
+We hebben natuurlijk ondersteuning voor Unicode.
+
+392
+00:22:01,167 --> 00:22:04,623
+Red broncode is UTF-8.
+
+393
+00:22:04,623 --> 00:22:09,567
+We zullen zorgen voor een aantal externe codecs voor andere coderingen.
+
+394
+00:22:09,567 --> 00:22:16,728
+Intern, in principe, bewaart en beheert Red 
+
+395
+00:22:16,728 --> 00:22:20,036
+Unicode-reeksen net als Python doet
+
+396
+00:22:20,036 --> 00:22:22,719
+in de laatste versies.
+
+397
+00:22:22,719 --> 00:22:29,671
+Dus de interne opslag is vaste grootte.
+
+398
+00:22:29,671 --> 00:22:35,382
+Maar het kan van 1 byte tot maximaal 4 bytes
+
+399
+00:22:35,382 --> 00:22:37,921
+per codepoint innemen.
+
+400
+00:22:37,921 --> 00:22:40,144
+En het systeem zal de grootte automatisch aanpassen
+
+401
+00:22:40,144 --> 00:22:43,224
+aan de invoer 
+
+402
+00:22:43,224 --> 00:22:48,908
+en de wijzigingen die je maakt op de string.
+
+403
+00:22:48,908 --> 00:22:54,977
+Een ander deel dat heel belangrijk is in Red
+
+404
+00:22:54,977 --> 00:22:57,640
+is concurrency-ondersteuning.
+
+405
+00:22:57,640 --> 00:23:00,108
+Maar op dit moment is het niet geïmplementeerd
+
+406
+00:23:00,108 --> 00:23:04,207
+dus ik zal niet in details treden.
+
+407
+00:23:04,207 --> 00:23:09,102
+We willen twee belangrijke dingen te ondersteunen :
+
+408
+00:23:09,102 --> 00:23:11,330
+we willen taak parallellisme ondersteunen
+
+409
+00:23:11,330 --> 00:23:15,331
+dus je kunt meerdere threads van code uit te voeren
+
+410
+00:23:15,331 --> 00:23:18,367
+het parallel gebruik van andere meerdere cores.
+
+411
+00:23:18,367 --> 00:23:21,891
+We zullen waarschijnlijk gebruik maken van de Actor abstracties.
+
+412
+00:23:21,891 --> 00:23:26,693
+Maar er zijn andere abstracties
+
+413
+00:23:26,693 --> 00:23:31,042
+die sinds het begin van het Red project
+
+414
+00:23:31,042 --> 00:23:34,926
+veel aan populariteit winnen. Als daar zijn Go routines,
+
+415
+00:23:34,926 --> 00:23:38,981
+die reeds een groot pluspunt
+
+416
+00:23:38,981 --> 00:23:40,645
+voor de Go taal vormen.
+
+417
+00:23:40,645 --> 00:23:43,082
+Dus dat is iets dat we moeten overwegen
+
+418
+00:23:43,082 --> 00:23:45,725
+ook voor Red, misschien...
+
+419
+00:23:45,725 --> 00:23:48,651
+als aanvulling of als vervanging voor actors
+
+420
+00:23:48,651 --> 00:23:50,974
+en andere vormen van abstracties.
+
+421
+00:23:50,974 --> 00:23:54,765
+Dus als we op het punt van implementatie staan van
+
+422
+00:23:54,765 --> 00:23:57,311
+de concurrency steun, moeten we 
+
+423
+00:23:57,311 --> 00:23:59,900
+alle ontwerp keuzes heroverwegen en zien
+
+424
+00:23:59,900 --> 00:24:03,665
+of we ze updaten door het kopiëren
+
+425
+00:24:03,665 --> 00:24:06,840
+enkele andere succesvolle strategieën.
+
+426
+00:24:06,840 --> 00:24:09,047
+We willen ook een soort
+
+427
+00:24:09,047 --> 00:24:13,712
+gegevens parallellisme hebben met behulp van ofwel SIMD
+
+428
+00:24:13,712 --> 00:24:16,582
+ofwel multicore processing.
+
+429
+00:24:16,582 --> 00:24:19,851
+Dus eigenlijk gebruikt dat de mogelijkheid
+
+430
+00:24:19,851 --> 00:24:25,917
+om de verwerking van Red reeks in parallel uit te voeren.
+
+431
+00:24:25,917 --> 00:24:30,758
+We willen ook graag iets aanpakken
+
+432
+00:24:30,758 --> 00:24:33,476
+dat Rebol momenteel niet echt aanpakt
+
+433
+00:24:33,476 --> 00:24:36,231
+En dat is : hoe maak je een dialect?
+
+434
+00:24:36,231 --> 00:24:38,956
+Of hoe maak je een DSL?
+
+435
+00:24:38,956 --> 00:24:41,438
+Rebol is geweldig daarvoor-
+
+436
+00:24:41,438 --> 00:24:44,368
+het is waarschijnlijk een van de beste tools om dat te doen
+
+437
+00:24:44,368 --> 00:24:45,658
+omdat het PARSE kent en omdat
+
+438
+00:24:45,658 --> 00:24:48,084
+het een aantal interessante eigenschappen heeft
+
+439
+00:24:48,084 --> 00:24:50,101
+en dat maakt het een goede keuze.
+
+440
+00:24:50,101 --> 00:24:54,911
+Hoe dan ook het bouwen van een DSL of het bouwen van een dialect
+
+441
+00:24:54,911 --> 00:24:57,186
+is niet iets gemakkelijks.
+
+442
+00:24:57,186 --> 00:24:59,774
+Omdat je het eerst moet ontwerpen.
+
+443
+00:24:59,774 --> 00:25:01,425
+Dat alleen is al een hoop werk.
+
+444
+00:25:01,425 --> 00:25:03,427
+En dan moet je het nog implementeren.
+
+445
+00:25:03,427 --> 00:25:07,113
+En implementeren van een DSL-of een dialect
+
+446
+00:25:07,113 --> 00:25:11,151
+is de implementatie van een interpreter of een compiler.
+
+447
+00:25:11,151 --> 00:25:17,524
+Dat moet je bijna alleen met de code doen.
+
+448
+00:25:17,524 --> 00:25:20,462
+Dus je hebt niet echt een kader
+
+449
+00:25:20,462 --> 00:25:22,134
+om dat te doen.
+
+450
+00:25:22,134 --> 00:25:25,585
+En het is mogelijk om de kwaliteiten te benutten
+
+451
+00:25:25,585 --> 00:25:27,439
+van de Rebol taal in Red
+
+452
+00:25:27,439 --> 00:25:29,507
+of misschien zelfs in Rebol
+
+453
+00:25:29,507 --> 00:25:32,431
+tot een soort meta - DSL maken
+
+454
+00:25:32,431 --> 00:25:38,218
+dat zal je helpen om veel productiever zijn
+
+455
+00:25:38,218 --> 00:25:40,920
+en geeft je een kader/framework
+
+456
+00:25:40,920 --> 00:25:44,260
+voor het bouwen van nieuwe dialecten en nieuwe DSL's.
+
+457
+00:25:44,260 --> 00:25:47,156
+In principe zal het iets zijn als
+
+458
+00:25:47,156 --> 00:25:50,105
+een hoger niveau versie van PARSE.
+
+459
+00:25:50,105 --> 00:25:52,557
+Je kunt je dit voorstellen, bijvoorbeeld,
+
+460
+00:25:52,557 --> 00:25:59,457
+als het hebben van PARSE met een gebeurtenis lus
+
+461
+00:25:59,457 --> 00:26:03,732
+en de evenement lus zal worden verborgen.
+
+462
+00:26:03,732 --> 00:26:07,914
+Iets dat Visual Basic doet.
+
+463
+00:26:07,914 --> 00:26:11,544
+En je zult net gebeurtenissen implementeren
+
+464
+00:26:11,544 --> 00:26:17,351
+om je DSL maken als interpreter of compiler.
+
+465
+00:26:17,351 --> 00:26:26,170
+Dus wat doet de Red compiler?
+
+466
+00:26:26,170 --> 00:26:30,786
+De Red compiler zet Red code om
+
+467
+00:26:30,786 --> 00:26:34,944
+in Red/System dat is de lagere laag.
+
+468
+00:26:34,944 --> 00:26:40,093
+Ik wilde even laten zien hoe het eruit ziet.
+
+469
+00:26:40,093 --> 00:26:45,535
+We beginnen met een zeer eenvoudige Red expressie
+
+470
+00:26:45,535 --> 00:26:48,493
+de Red compiler verwerkt het
+
+471
+00:26:48,493 --> 00:26:53,884
+en maakt gebruik van een stapel abstractie om de argumenten te plaatsen
+
+472
+00:26:53,884 --> 00:26:58,480
+In feite gebruikt het twee stapels : een voor oproepen
+
+473
+00:26:58,480 --> 00:27:01,819
+en een voor argumenten.
+
+474
+00:27:01,819 --> 00:27:05,361
+En dan zal de emitter Red/System code produceren
+
+475
+00:27:05,361 --> 00:27:08,363
+op basis daarvan.
+
+476
+00:27:08,363 --> 00:27:10,782
+Dus wat je ziet aan de rechterkant
+
+477
+00:27:10,782 --> 00:27:14,350
+is de Red/System uitvoer voor die uitdrukking
+
+478
+00:27:14,350 --> 00:27:18,061
+die de Red runtime API aanroept.
+
+479
+00:27:22,651 --> 00:27:28,334
+Een andere bijzonder aspect van de Red compiler
+
+480
+00:27:28,334 --> 00:27:29,406
+en Red taal
+
+481
+00:27:29,406 --> 00:27:34,169
+is dat het verscheidene soorten benaderingen combineert 
+
+482
+00:27:34,169 --> 00:27:37,846
+dat is iets unieks, denk ik.
+
+483
+00:27:37,846 --> 00:27:41,156
+Dus eigenlijk heb je een statische compiler.
+
+484
+00:27:41,156 --> 00:27:44,538
+Die statische compiler genereert code 
+
+485
+00:27:44,538 --> 00:27:46,584
+met een interpreter daarbinnen, en morgen
+
+486
+00:27:46,584 --> 00:27:51,606
+een JIT - compiler ingebed in je executable.
+
+487
+00:27:51,606 --> 00:27:58,368
+Al deze drie delen zullen kunnen samenwerken
+
+488
+00:27:58,368 --> 00:28:02,334
+op een zeer collaboratieve manier.
+
+489
+00:28:02,334 --> 00:28:05,191
+Dus bijvoorbeeld, de gecompileerde code
+
+490
+00:28:05,191 --> 00:28:08,428
+kan de interne interpreter aanroepen
+
+491
+00:28:08,428 --> 00:28:12,551
+die zelf de gecompileerde code kan gebruiken.
+
+492
+00:28:12,551 --> 00:28:16,189
+Hetzelfde geldt voor de JIT-compiler.
+
+493
+00:28:16,189 --> 00:28:19,973
+Het is een beetje abstract, maar ik kan het aan het eind  
+
+494
+00:28:19,973 --> 00:28:21,707
+van de presentatie een dia laten zien
+
+495
+00:28:21,707 --> 00:28:23,904
+met een praktische case voor een dergelijke aanpak.
+
+496
+00:28:23,904 --> 00:28:28,901
+Immers deze aanpak is een zeer krachtig instrument
+
+497
+00:28:28,901 --> 00:28:35,136
+om zeer complexe semantische zaken op te lossen.
+
+498
+00:28:35,136 --> 00:28:39,575
+Bijvoorbeeld, compileren van symbolische code,
+
+499
+00:28:39,575 --> 00:28:42,229
+dat is heel moeilijk te doen.
+
+500
+00:28:42,229 --> 00:28:43,740
+Maar als je verschillende benaderingen te combineert
+
+501
+00:28:43,740 --> 00:28:49,758
+kun je een zeer efficiënte oplossing vinden.
+
+502
+00:28:49,758 --> 00:28:54,407
+Dus dit is gewoon een heel eenvoudig voorbeeld
+
+503
+00:28:54,407 --> 00:29:00,583
+hoe Red code er uit ziet.
+
+504
+00:29:00,583 --> 00:29:03,399
+Het heeft hetzelfde principe als in Rebol
+
+505
+00:29:03,399 --> 00:29:08,492
+dus je hebt een marker [Red]
+
+506
+00:29:08,492 --> 00:29:13,355
+gevolgd door een blok dat een header vormt
+
+507
+00:29:13,355 --> 00:29:17,254
+en de code komt daarna.
+
+508
+00:29:17,254 --> 00:29:19,921
+Hallo wereld is gewoon [print "Hallo wereld"]
+
+509
+00:29:19,921 --> 00:29:22,312
+zoals in Rebol, en de rest van de code
+
+510
+00:29:22,312 --> 00:29:26,336
+lijkt waarschijnlijk heel erg op Rebol
+
+511
+00:29:26,336 --> 00:29:32,270
+behalve misschien voor de [return: [type!]]
+
+512
+00:29:32,270 --> 00:29:36,908
+die optioneel is, maar het is het soort van
+
+513
+00:29:36,908 --> 00:29:40,409
+optioneel typeren waar ik het net over had.
+
+514
+00:29:40,409 --> 00:29:43,389
+Dus heb je een voorbeeld daar.
+
+515
+00:29:43,389 --> 00:29:48,196
+Het is niet verplicht om het te zetten, maar als je het doet 
+
+516
+00:29:48,196 --> 00:29:54,758
+zal de compiler betere, snellere code genereren.
+
+517
+00:29:54,758 --> 00:29:59,006
+Een beetje meer gedetailleerde weergave
+
+518
+00:29:59,006 --> 00:30:02,905
+van de binnenkant van Red, en de verschillende onderdelen
+
+519
+00:30:02,905 --> 00:30:05,640
+dus krijg je een beter beeld van hoe
+
+520
+00:30:05,640 --> 00:30:09,472
+al die elementen zijn gerelateerd.
+
+521
+00:30:09,472 --> 00:30:13,971
+Dus als we uitgaan van deze hier rechts
+
+522
+00:30:13,971 --> 00:30:17,047
+we hebben een command-line front-end script
+
+523
+00:30:17,047 --> 00:30:19,852
+dat momenteel wordt geschreven in Rebol2
+
+524
+00:30:19,852 --> 00:30:25,527
+en daarachter hebben we de twee stapels
+
+525
+00:30:25,527 --> 00:30:28,351
+voor de twee compilers. Een Red, die
+
+526
+00:30:28,351 --> 00:30:32,604
+kleiner is omdat het gewoon code voor Red/System maakt.
+
+527
+00:30:32,604 --> 00:30:34,311
+En een voor Red/System
+
+528
+00:30:34,311 --> 00:30:36,720
+die naar beneden gaat naar de packager
+
+529
+00:30:36,720 --> 00:30:41,424
+dus het kan omzetten naar binaire bestanden.
+
+530
+00:30:41,424 --> 00:30:47,027
+Dat alles is de toolchain geschreven in Rebol 2.
+
+531
+00:30:47,027 --> 00:30:52,304
+Aan de linkerkant heb je de Red runtime.
+
+532
+00:30:52,304 --> 00:30:55,586
+Dat is nogal een groot stuk code,
+
+533
+00:30:55,586 --> 00:30:59,651
+in feite waarschijnlijk groter dan de andere kant.
+
+534
+00:30:59,651 --> 00:31:02,964
+En deze is geschreven in Red/System.
+
+535
+00:31:02,964 --> 00:31:06,914
+Dus je zult de echte rekenkracht aan die kant vinden
+
+536
+00:31:06,914 --> 00:31:08,649
+bijvoorbeeld alle datatypes,
+
+537
+00:31:08,649 --> 00:31:12,104
+alle natives (systeem-eigen functies), de mezzanine code,
+
+538
+00:31:12,104 --> 00:31:16,600
+de interpreter, de bruggen - zoals die voor Java
+
+539
+00:31:16,600 --> 00:31:19,025
+die al beschikbaar is.
+
+540
+00:31:19,025 --> 00:31:23,058
+Het geheugenbeheer en de low-level interfaces
+
+541
+00:31:23,058 --> 00:31:26,485
+de onderliggende stukken.
+
+542
+00:31:26,485 --> 00:31:28,829
+Zoals bijvoorbeeld de directe toegang tot
+
+543
+00:31:28,829 --> 00:31:31,993
+de besturingssysteem API maar ook de kernel.
+
+544
+00:31:31,993 --> 00:31:34,001
+Op Linux kun je syscalls direct doen.
+
+545
+00:31:34,001 --> 00:31:38,340
+En indien nodig kun je zelfs naar beneden gaan
+
+546
+00:31:38,340 --> 00:31:41,869
+naar de hardware en zeer low-level functies aanroepen.
+
+547
+00:31:44,599 --> 00:31:46,625
+Misschien heb ik de Red Console gemist
+
+548
+00:31:46,625 --> 00:31:49,985
+ook geschreven in Red
+
+549
+00:31:49,985 --> 00:31:52,946
+en Red / Systeem voor de low-level onderdelen.
+
+550
+00:31:53,816 --> 00:31:57,120
+Over Red/System... Ik heb een kleine presentatie
+
+551
+00:31:57,120 --> 00:32:01,142
+morgen specifiek over Red/System, omdat
+
+552
+00:32:01,142 --> 00:32:06,082
+het is een soort van een nieuw ding in Red ter vergelijking met Rebol.
+
+553
+00:32:06,082 --> 00:32:08,541
+Dus ik heb gewoon een slide over Red/System
+
+554
+00:32:08,541 --> 00:32:10,120
+alleen om een overzicht geven.
+
+555
+00:32:10,120 --> 00:32:16,748
+Dus eigenlijk is het gewoon een soort van C-level taal
+
+556
+00:32:16,748 --> 00:32:20,078
+maar met een Red syntax.
+
+557
+00:32:20,078 --> 00:32:22,760
+Zodat het vaak voelt alsof de codering in Red is
+
+558
+00:32:22,760 --> 00:32:29,827
+maar met een zeer laag niveau datatypes en acties.
+
+559
+00:32:29,827 --> 00:32:32,630
+Dus het is statisch gecompileerd.
+
+560
+00:32:32,630 --> 00:32:35,956
+Het is momenteel helemaal niet geoptimaliseerd. :-)
+
+561
+00:32:35,956 --> 00:32:40,988
+Maar het is toch maar 4x langzamer dan geoptimaliseerde C
+
+562
+00:32:40,988 --> 00:32:43,849
+gecompileerd met "-O2".
+
+563
+00:32:43,849 --> 00:32:47,674
+Dus het is aardig goed, eigenlijk is het heel erg goed.
+
+564
+00:32:47,674 --> 00:32:51,224
+Want zodra we de optimalisatie lagen toevoegen 
+
+565
+00:32:51,224 --> 00:32:53,398
+We zullen zeer, zeer dicht bij C komen
+
+566
+00:32:53,398 --> 00:32:57,362
+We zullen waarschijnlijk niet winnen, maar dat is niet het doel.
+
+567
+00:32:57,362 --> 00:33:00,014
+Maar we zullen wel heel erg dichtbij.
+
+568
+00:33:00,014 --> 00:33:05,041
+Dus Red/System zal een werkelijk levensvatbaar alternatief voor C zijn
+
+569
+00:33:05,041 --> 00:33:09,334
+En het doet al wonderen in sommige
+
+570
+00:33:09,334 --> 00:33:11,936
+beeldverwerkingtoepassingen bijvoorbeeld
+
+571
+00:33:11,936 --> 00:33:15,680
+Bo ( Lechnowsky ) zal dat laten zien morgen.
+
+572
+00:33:15,680 --> 00:33:17,968
+Iets dat de taal C niet heeft 
+
+573
+00:33:17,968 --> 00:33:22,310
+of de meeste zeer low-level talen niet hebben:
+
+574
+00:33:22,310 --> 00:33:24,792
+Red/System heeft namespaces,
+
+575
+00:33:24,792 --> 00:33:27,024
+die vergelijkbaar zijn met contexten in Rebol
+
+576
+00:33:27,024 --> 00:33:33,586
+maar erg statisch, dus we gebruiken het CONTEXT trefwoord
+
+577
+00:33:33,586 --> 00:33:35,909
+om ze ook te declareren in Red/System.
+
+578
+00:33:35,909 --> 00:33:38,936
+En je kunt ook het WITH keyword gebruiken
+
+579
+00:33:38,936 --> 00:33:43,428
+om een deel van je code binnen een context te plaatsen
+
+580
+00:33:43,428 --> 00:33:47,121
+iets als declaraties in andere talen.
+
+581
+00:33:47,121 --> 00:33:52,155
+We hebben een zeer beperkt type systeem in Red/System
+
+582
+00:33:52,155 --> 00:34:00,763
+We hebben negen types.
+
+583
+00:34:00,763 --> 00:34:05,467
+In principe dezelfde datatypes als C.
+
+584
+00:34:05,467 --> 00:34:11,372
+De functie datatype is niet een volledig eerste klas datatype
+
+585
+00:34:11,372 --> 00:34:16,155
+Ik heb veel daarover getwijfeld, omdat...
+
+586
+00:34:16,155 --> 00:34:19,723
+als ik het een volledig eerste klas datatype zou maken
+
+587
+00:34:19,723 --> 00:34:22,571
+De mensen mij zullen gaan vragen
+
+588
+00:34:22,571 --> 00:34:24,925
+om van Red/System een functionele taal te maken.
+
+589
+00:34:24,925 --> 00:34:27,986
+Dat is mogelijk, maar het is niet het doel.
+
+590
+00:34:27,986 --> 00:34:32,540
+Het dient geen doel, dus ik ben heel terughoudend
+
+591
+00:34:32,540 --> 00:34:37,835
+om nieuwe functies toe te voegen aan dat datatype.
+
+592
+00:34:37,835 --> 00:34:40,324
+Wij hebben type inference,
+
+593
+00:34:40,324 --> 00:34:42,395
+dus je hoeft het type gegevens niet op te geven
+
+594
+00:34:42,395 --> 00:34:45,235
+voor lokale variabelen, de compiler zal het raden.
+
+595
+00:34:45,235 --> 00:34:48,666
+We hebben ook een beperkte type-casting
+
+596
+00:34:48,666 --> 00:34:52,473
+tussen compatibele gegevenstypen.
+
+597
+00:34:52,473 --> 00:34:56,548
+En we hebben iets dat C niet heeft
+
+598
+00:34:56,548 --> 00:35:04,017
+maar C++ wel heeft, dat is een zekere mate van reflectie.
+
+599
+00:35:04,017 --> 00:35:07,445
+Zo kunt u een functie in Red/System declareren
+
+600
+00:35:07,445 --> 00:35:12,157
+met een variabel aantal argumenten
+
+601
+00:35:12,157 --> 00:35:14,311
+Je kunt haakjes eromheen zetten
+
+602
+00:35:14,311 --> 00:35:16,341
+en in de body van die functie
+
+603
+00:35:16,341 --> 00:35:19,854
+kun je door de lijst met argumenten lopen
+
+604
+00:35:19,854 --> 00:35:23,665
+en je kunt het type van elk argument opvragen.
+
+605
+00:35:23,665 --> 00:35:26,778
+Dus dat is nogal een krachtige functie,
+
+606
+00:35:26,778 --> 00:35:32,499
+en Kaj de Vos heeft het al gebruikt om 
+
+607
+00:35:32,499 --> 00:35:36,773
+een VID - achtig dialect in Red/System te bouwen
+
+608
+00:35:36,773 --> 00:35:38,853
+dat is een hele prestatie, want
+
+609
+00:35:38,853 --> 00:35:42,243
+we hebben geen symbolen in Red/System :-)
+
+610
+00:35:42,243 --> 00:35:47,656
+Dus het lijkt op VID maar het gebruikt die functie
+
+611
+00:35:47,656 --> 00:35:50,854
+om het uit te voeren, en het is echt geweldig.
+
+612
+00:35:50,854 --> 00:35:55,630
+We hebben ook een preprocessor in Red/System
+
+613
+00:35:55,630 --> 00:36:01,262
+maar die wil ik laten vervallen in de volgende grote release
+
+614
+00:36:01,262 --> 00:36:06,590
+want we hebben er meer problemen mee
+
+615
+00:36:06,590 --> 00:36:11,779
+dan voordelen van.
+
+616
+00:36:11,779 --> 00:36:13,727
+Dus zullen we een paar van houden
+
+617
+00:36:13,727 --> 00:36:16,774
+maar we moeten het heroverdenken en het herontwerpen.
+
+618
+00:36:16,774 --> 00:36:20,186
+De #define is een zeer krachtige optie
+
+619
+00:36:20,186 --> 00:36:22,128
+want het geeft je bijna hetzelfde vermogen
+
+620
+00:36:22,128 --> 00:36:27,392
+als C macro's, en je kunt zelfs gebruik maken van parameters.
+
+621
+00:36:27,392 --> 00:36:34,001
+We willen ook deels low-level CPU support hebben
+
+622
+00:36:34,001 --> 00:36:39,385
+momenteel hebben we toegang tot enkele CPU registers
+
+623
+00:36:39,385 --> 00:36:41,747
+in een cross-platform manier.
+
+624
+00:36:41,747 --> 00:36:43,617
+We hebben toegang tot de stapel -
+
+625
+00:36:43,617 --> 00:36:46,743
+je kunt de native stack manipuleren
+
+626
+00:36:46,743 --> 00:36:49,724
+op Red/System niveau in een cross-platform manier.
+
+627
+00:36:49,724 --> 00:36:55,232
+En we zullen ondersteuning voor interruptie I/O's  toevoegen
+
+628
+00:36:55,232 --> 00:37:02,004
+en andere zeer fundamentele CPU features.
+
+629
+00:37:02,004 --> 00:37:07,289
+Misschien zullen we een aantal inline assembler ondersteuning toevoegen
+
+630
+00:37:07,289 --> 00:37:10,224
+maar het is momenteel geen grote noodzaak.
+
+631
+00:37:10,224 --> 00:37:13,926
+Een paar statistieken over het Red project.
+
+632
+00:37:13,926 --> 00:37:18,596
+Dus het is BSD, voor het grootste deel van de codebase.
+
+633
+00:37:18,596 --> 00:37:22,560
+En de runtime delen van Red zijn "BSL"
+
+634
+00:37:22,560 --> 00:37:25,945
+dat is de "Boost Software License"
+
+635
+00:37:25,945 --> 00:37:32,015
+dat is zelfs vrijer dan BSD.
+
+636
+00:37:32,015 --> 00:37:34,999
+Dus je hebt nog minder beperkingen dan BSD.
+
+637
+00:37:34,999 --> 00:37:37,856
+We zijn op GitHub sinds het begin
+
+638
+00:37:37,856 --> 00:37:43,033
+hebben we 9 committers... Ik denk dat dat verkeerd is
+
+639
+00:37:43,033 --> 00:37:46,604
+het is nu 11 committers.
+
+640
+00:37:46,604 --> 00:37:50,335
+We hebben meer dan 2000 commits
+
+641
+00:37:50,335 --> 00:37:52,867
+zonder merge commits.
+
+642
+00:37:52,867 --> 00:37:58,035
+We hebben ongeveer 500 tickets in de bug tracker
+
+643
+00:37:58,035 --> 00:38:00,490
+maar ze zijn bijna allemaal gesloten
+
+644
+00:38:00,490 --> 00:38:03,576
+we proberen om hen zo snel mogelijk te sluiten
+
+645
+00:38:03,576 --> 00:38:05,852
+om te voorkomen dat ze opstapelen.
+
+646
+00:38:05,852 --> 00:38:07,516
+Want zodra ze zich opstapelen,
+
+647
+00:38:07,516 --> 00:38:10,788
+krijg je ze bijna nooit meer verwerkt.
+
+648
+00:38:10,788 --> 00:38:14,469
+Dus we moeten dit echt zeer, zeer laag houden.
+
+649
+00:38:14,469 --> 00:38:16,696
+We hebben veel unit tests
+
+650
+00:38:16,696 --> 00:38:19,569
+die worden gebouwd door Peter Wood
+
+651
+00:38:19,569 --> 00:38:23,180
+die geweldig werk op dat vlak heeft gedaan.
+
+652
+00:38:23,180 --> 00:38:25,361
+Het is zeer, zeer behulpzaam.
+
+653
+00:38:25,361 --> 00:38:27,897
+En hier heb je een paar statistieken
+
+654
+00:38:27,897 --> 00:38:30,019
+de grootte van de broncode
+
+655
+00:38:30,019 --> 00:38:32,026
+voor Red en Red/System onderdelen.
+
+656
+00:38:32,026 --> 00:38:34,073
+Voor de compiler voor de linker.
+
+657
+00:38:34,073 --> 00:38:35,923
+Zodat je voor jezelf kunt zien
+
+658
+00:38:35,923 --> 00:38:37,897
+dat is echt een kleine codebase.
+
+659
+00:38:37,897 --> 00:38:41,619
+Je kunt veel bereiken, dankzij Rebol :-)
+
+660
+00:38:41,619 --> 00:38:45,444
+je kunt veel bereiken met een kleine codebase
+
+661
+00:38:45,444 --> 00:38:47,680
+en een paar regels code.
+
+662
+00:38:47,680 --> 00:38:50,946
+Je kunt dat vergelijken met andere toolchains
+
+663
+00:38:50,946 --> 00:38:55,006
+en je zult vaak zien een of twee
+
+664
+00:38:55,006 --> 00:38:57,700
+ordes van grootte van verschil.
+
+665
+00:38:57,700 --> 00:38:59,251
+Natuurlijk zijn er die
+
+666
+00:38:59,251 --> 00:39:01,428
+meer gebieden bestrijken dan wij.
+
+667
+00:39:01,428 --> 00:39:06,544
+Maar met zo'n kleine codebase
+
+668
+00:39:06,544 --> 00:39:09,376
+bestijken wij al veel gebied.
+
+669
+00:39:09,376 --> 00:39:14,352
+Dus we hebben nog een hoop werk
+
+670
+00:39:14,352 --> 00:39:18,824
+Het is nog steeds zwaar onder constructie.
+
+671
+00:39:18,824 --> 00:39:23,389
+En we missen een aantal grote kern onderdelen, nog steeds.
+
+672
+00:39:23,389 --> 00:39:30,653
+We willen OBJECT!, dat er nog niet is.
+
+673
+00:39:30,653 --> 00:39:34,083
+We hebben nog niet de juiste foutafhandeling
+
+674
+00:39:34,083 --> 00:39:36,009
+want we hebben OBJECT! daarvoor nodig.
+
+675
+00:39:36,009 --> 00:39:40,244
+Het ontbreekt ons aan type checking voor argumenten
+
+676
+00:39:40,244 --> 00:39:42,915
+in sommige delen van de compiler.
+
+677
+00:39:42,915 --> 00:39:45,487
+We hebben de I/O nog niet, maar...
+
+678
+00:39:45,487 --> 00:39:50,941
+natuurlijk objecten en I/O zijn zeer hoog op de lijst
+
+679
+00:39:50,941 --> 00:39:54,697
+Ze waarschijnlijk deze zomer worden toegevoegd.
+
+680
+00:39:54,697 --> 00:39:59,696
+We willen een zekere mate van concurrency ondersteuning
+
+681
+00:39:59,696 --> 00:40:05,334
+in de 1.0, en wij natuurlijk ook willen
+
+682
+00:40:05,334 --> 00:40:09,829
+een modulaire compilatie en module systeem.
+
+683
+00:40:09,829 --> 00:40:14,260
+We zullen waarschijnlijk zorgen voor een zeer minimale Red IDE
+
+684
+00:40:14,260 --> 00:40:18,032
+die zal waarschijnlijk gewoon een code editor
+
+685
+00:40:18,032 --> 00:40:23,468
+plus een debugger... en wij zullen werken
+
+686
+00:40:23,468 --> 00:40:27,570
+om dat uit te breiden in toekomstige versies.
+
+687
+00:40:27,570 --> 00:40:31,050
+We willen ook de volledige documentatie
+
+688
+00:40:31,050 --> 00:40:37,597
+dus dat is een grote showstopper om een 1.0 vrij te geven
+
+689
+00:40:37,597 --> 00:40:41,836
+dus we hebben een hoop werk aan die documentatie te schrijven
+
+690
+00:40:41,836 --> 00:40:43,650
+en tutorials te schrijven.
+
+691
+00:40:43,650 --> 00:40:46,529
+En natuurlijk moeten we een nieuwe website
+
+692
+00:40:46,529 --> 00:40:49,753
+voordat we de versie 1.0 lanceren.
+
+693
+00:40:51,613 --> 00:40:54,761
+Maar dat is niet alles... :-)
+
+694
+00:40:54,761 --> 00:40:57,310
+dat is nog niet de echte Red.
+
+695
+00:40:57,310 --> 00:41:00,523
+De echte Red zal de 2.0 zijn.
+
+696
+00:41:00,523 --> 00:41:05,640
+En we hebben gelukkig een vrij goede cast daarvoor ( gelach )
+
+697
+00:41:05,640 --> 00:41:07,538
+Dus wat is "The Real Red" ?
+
+698
+00:41:07,538 --> 00:41:11,329
+In feite, wat ik tot dusver heb gepresenteerd
+
+699
+00:41:11,329 --> 00:41:13,583
+is een soort van steiger.
+
+700
+00:41:13,583 --> 00:41:15,570
+Omdat de echte Red dit is.
+
+701
+00:41:15,570 --> 00:41:23,308
+De echte Red zal in principe een JIT-compiler zijn
+
+702
+00:41:23,308 --> 00:41:27,206
+die ook kan werken als een statische compiler.
+
+703
+00:41:27,206 --> 00:41:29,613
+De hele interne architectuur
+
+704
+00:41:29,613 --> 00:41:32,929
+zal totaal anders dan de huidige zijn
+
+705
+00:41:32,929 --> 00:41:35,846
+geïmplementeerd in de bootstrap versie.
+
+706
+00:41:35,846 --> 00:41:39,254
+Zo zal het zijn - plugin georiënteerd
+
+707
+00:41:39,254 --> 00:41:40,910
+dus in principe de compiler en de toolchain
+
+708
+00:41:40,910 --> 00:41:44,718
+zal een lege huls te zijn -- een kader/framework -- 
+
+709
+00:41:44,718 --> 00:41:49,830
+waar je een aantal modules kunt aansluiten 
+
+710
+00:41:49,830 --> 00:41:54,223
+om functies toe te voegen in elke fase van de compilatie.
+
+711
+00:41:54,223 --> 00:41:57,606
+Van de parsing tot het genereren van de bestanden.
+
+712
+00:41:57,606 --> 00:42:00,981
+Je krijgt een API om mee te werken.
+
+713
+00:42:00,981 --> 00:42:03,679
+Dus ik zal het kader bieden
+
+714
+00:42:03,679 --> 00:42:07,304
+en de minimale modules om het te laten werken
+
+715
+00:42:07,304 --> 00:42:10,946
+om dezelfde kenmerken als de 1.0 te bieden.
+
+716
+00:42:10,946 --> 00:42:15,920
+En zo'n API zal uiteraard gedocumenteerd worden
+
+717
+00:42:15,920 --> 00:42:18,986
+zodat iedereen het kan aan passen
+
+718
+00:42:18,986 --> 00:42:22,012
+en nieuwe functies toe kan voegen aan de compiler
+
+719
+00:42:22,012 --> 00:42:25,657
+in een zeer geisoleerde manier, een zeer gestructureerde manier.
+
+720
+00:42:25,657 --> 00:42:29,935
+Een dergelijke API kan ook worden opgeroepen tijdens de uitvoering.
+
+721
+00:42:29,935 --> 00:42:34,584
+Dus ik laat je je de opties en mogelijkheden
+
+722
+00:42:34,584 --> 00:42:37,270
+met het wijzigen van de compiler zelf en de toolchain
+
+723
+00:42:37,270 --> 00:42:38,819
+tijdens de uitvoering.
+
+724
+00:42:38,819 --> 00:42:40,186
+Dus het is mogelijk tijdens runtime
+
+725
+00:42:40,186 --> 00:42:43,657
+om de taal zelf te wijzigen of nieuwe functies toe te voegen.
+
+726
+00:42:43,657 --> 00:42:47,107
+Het klinkt misschien gestoord
+
+727
+00:42:47,107 --> 00:42:48,494
+maar het is iets dat andere talen
+
+728
+00:42:48,494 --> 00:42:53,525
+op dit moment naar toe  
+
+729
+00:42:53,525 --> 00:42:56,184
+ontwikkelen... bijvoorbeeld de Scala taal
+
+730
+00:42:56,184 --> 00:42:57,921
+probeert precies dat te doen.
+
+731
+00:42:57,921 --> 00:43:00,094
+En sommige mensen uit de Scala gemeenschap
+
+732
+00:43:00,094 --> 00:43:04,242
+zijn met behulp van dit soort functie bezig om wonderen doen in Scala
+
+733
+00:43:04,242 --> 00:43:07,042
+Bijvoorbeeld, een heel slimme jongen
+
+734
+00:43:07,042 --> 00:43:13,634
+gebruikt deze API om parallelle ondersteuning voor loops toe te voegen
+
+735
+00:43:13,634 --> 00:43:18,648
+met behulp van de GPGPU voor parallelizering
+
+736
+00:43:18,648 --> 00:43:23,715
+met behulp van OpenCL als een low-level laag.
+
+737
+00:43:23,715 --> 00:43:27,094
+Dus dat is een zeer krachtige functie
+
+738
+00:43:27,094 --> 00:43:31,124
+en levert ook de compiler architectuur
+
+739
+00:43:31,124 --> 00:43:37,405
+veel meer solide en stelt mensen in staat om bij te dragen
+
+740
+00:43:37,405 --> 00:43:39,391
+in een veel eenvoudiger manier
+
+741
+00:43:39,391 --> 00:43:42,666
+en een veel meer gestructureerde manier.
+
+742
+00:43:42,666 --> 00:43:45,410
+Dus de implicatie is dat de huidige codebase
+
+743
+00:43:45,410 --> 00:43:50,145
+van de compiler... dus in het Red interne schema
+
+744
+00:43:50,145 --> 00:43:53,929
+was dat de rechterzijde van de blokken...
+
+745
+00:43:53,929 --> 00:43:56,942
+De huidige codebase in Rebol 2
+
+746
+00:43:56,942 --> 00:44:00,594
+is een soort van wegwerp-code.
+
+747
+00:44:00,594 --> 00:44:04,283
+Dus vanaf het begin, schreef ik het erg snel
+
+748
+00:44:04,283 --> 00:44:08,540
+denkend dat ik het snel zou dumpen
+
+749
+00:44:08,540 --> 00:44:10,412
+binnen ongeveer een jaar,
+
+750
+00:44:10,412 --> 00:44:14,035
+en in staat zou zijn om het snel te hercoderen in Red.
+
+751
+00:44:14,035 --> 00:44:18,069
+Maar we veranderden een heleboel dingen in het project
+
+752
+00:44:18,069 --> 00:44:22,374
+pasten ons aan aan de veranderende omgeving
+
+753
+00:44:22,374 --> 00:44:25,218
+dus we zijn daar nog niet.
+
+754
+00:44:25,218 --> 00:44:29,434
+Dus zullen we eerst 1.0 in de bootstrap versie
+
+755
+00:44:29,434 --> 00:44:32,590
+en de 2.0 zal de self-hosted versie
+
+756
+00:44:32,590 --> 00:44:35,173
+met de toolchain gehercodeerd in Red.
+
+757
+00:44:35,173 --> 00:44:41,975
+Het hele Red runtime deel zal hetzelfde blijven
+
+758
+00:44:41,975 --> 00:44:43,714
+want het is gecodeerd in Red/System
+
+759
+00:44:43,714 --> 00:44:47,340
+dus het zal overleven, en dat is een zeer grote codebase.
+
+760
+00:44:47,340 --> 00:44:50,087
+Dus het enige deel dat zal worden gehercodeerd
+
+761
+00:44:50,087 --> 00:44:53,342
+zal de Rebol 2 codebase, die bestaat
+
+762
+00:44:53,342 --> 00:44:56,511
+in principe uit de Red en Red/System compilers
+
+763
+00:44:56,511 --> 00:44:59,654
+Slechts een paar woorden over de projectorganisatie :
+
+764
+00:44:59,654 --> 00:45:05,659
+we hebben twee medewerkers op GitHub
+
+765
+00:45:05,659 --> 00:45:10,028
+wat betekent dat er een admin is en twee andere mensen zijn
+
+766
+00:45:10,028 --> 00:45:15,747
+die admin rechten hebben. Dus als ik geraakt wordt door een bus
+
+767
+00:45:15,747 --> 00:45:21,832
+kunnen deze twee jongens de broncode overnemen
+
+768
+00:45:21,832 --> 00:45:26,973
+in de Red repository en deze beheren.
+
+769
+00:45:26,973 --> 00:45:30,940
+We hebben ongeveer 11 medewerkers aan de codebase
+
+770
+00:45:30,940 --> 00:45:33,673
+sinds het begin. We hebben een mailinglijst.
+
+771
+00:45:33,673 --> 00:45:37,359
+We hebben een Facebook-pagina, een IRC-kanaal
+
+772
+00:45:37,359 --> 00:45:42,087
+met een mooie IRC bot van Andreas
+
+773
+00:45:42,087 --> 00:45:44,471
+voor het melden van commits.
+
+774
+00:45:44,471 --> 00:45:46,792
+En natuurlijk zijn we op zoek naar andere mensen
+
+775
+00:45:46,792 --> 00:45:49,389
+die geïnteresseerd zijn in het bijdragen
+
+776
+00:45:49,389 --> 00:45:52,707
+en participeren in alle opzichten
+
+777
+00:45:52,707 --> 00:45:54,940
+want het is nogal een groot project...
+
+778
+00:45:54,940 --> 00:45:58,775
+en we hebben veel helpende handen nodig.
+
+779
+00:46:00,945 --> 00:46:03,564
+Last but not least :-)
+
+780
+00:46:03,564 --> 00:46:09,450
+Ik heb geïnvesteerd in dit project... sinds ik ben begonnen
+
+781
+00:46:09,450 --> 00:46:12,146
+ongeveer 2 jaar en een half geleden...
+
+782
+00:46:12,146 --> 00:46:16,020
+elke laatste cent van het saargeld dat ik had. :-)
+
+783
+00:46:16,020 --> 00:46:20,434
+Dus ik ben echt helemaal gaan geloven in het project
+
+784
+00:46:20,434 --> 00:46:22,075
+en het succes van het project.
+
+785
+00:46:22,075 --> 00:46:27,231
+Maar het geld raakt bij mij vrij snel op. :-)
+
+786
+00:46:27,231 --> 00:46:30,128
+Sinds een jaar leef ik alleen van donaties
+
+787
+00:46:30,128 --> 00:46:33,280
+die gebruikers en volgers aan mij sturen.
+
+788
+00:46:33,280 --> 00:46:35,522
+Dus ik wil hen bijzonder bedanken
+
+789
+00:46:35,522 --> 00:46:39,136
+omdat ik hier niet zou zijn zonder hen
+
+790
+00:46:39,136 --> 00:46:41,448
+Red en zou niet in dit stadium zijn
+
+791
+00:46:41,448 --> 00:46:42,987
+of mogelijk geheel niet bestaan
+
+792
+00:46:42,987 --> 00:46:45,865
+als mensen me niet steunden.
+
+793
+00:46:45,865 --> 00:46:49,165
+Dus heel erg bedankt, en we moeten blijven
+
+794
+00:46:49,165 --> 00:46:52,832
+ondersteunen om het te realiseren.
+
+795
+00:46:52,832 --> 00:46:55,053
+Ik dank u allen voor uw aandacht.
+
+796
+00:46:55,053 --> 00:46:59,053
+( applaus )
