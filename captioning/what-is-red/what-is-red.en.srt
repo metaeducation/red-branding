@@ -2268,7 +2268,7 @@ But we'll be very, very close.
 
 568
 00:33:00,014 --> 00:33:05,041
-So Red&#x2F;System will be a really viable alternative to C.
+So Red/System will be a really viable alternative to C.
 
 569
 00:33:05,041 --> 00:33:09,334
@@ -2304,7 +2304,7 @@ but very static, so we are using the CONTEXT keyword
 
 577
 00:33:33,586 --> 00:33:35,909
-to declare them in Red&#x2F;System also.
+to declare them in Red/System also.
 
 578
 00:33:35,909 --> 00:33:38,936
