@@ -4,7 +4,7 @@ Notre prochain invité est Nenad Rakocevic
 
 2
 00:00:14,410 --> 00:00:17,039
-qui va nous expliquer "Ce qu'est Red".
+qui va nous expliquer "Ce qu’est Red".
 
 3
 00:00:17,039 --> 00:00:22,496
@@ -20,11 +20,11 @@ qui ont contribué financièrement aux frais de mon voyage
 
 6
 00:00:31,908 --> 00:00:33,728
-et l'ont rendu possible.
+et l’ont rendu possible.
 
 7
 00:00:33,728 --> 00:00:36,932
-J'ai déjà donné plusieurs présentations de Red
+J’ai déjà donné plusieurs présentations de Red
 
 8
 00:00:36,932 --> 00:00:43,013
@@ -36,7 +36,7 @@ avec cette simple question :
 
 10
 00:00:45,517 --> 00:00:47,400
-"C'est quoi Red ?"
+"C’est quoi Red ?"
 
 11
 00:00:47,400 --> 00:00:50,166
@@ -48,7 +48,7 @@ et je peux le comprendre.
 
 13
 00:00:51,741 --> 00:00:54,042
-C'est pourquoi j'essayerais dans cette présentation
+C’est pourquoi j’essayerais dans cette présentation
 
 14
 00:00:54,042 --> 00:00:58,673
@@ -60,15 +60,15 @@ Commençons par un panorama du problème.
 
 16
 00:01:02,522 --> 00:01:06,517
-Ce n'est pas une image de mes petites cellules grises,
+Ce n’est pas une image de mes petites cellules grises,
 
 17
 00:01:06,517 --> 00:01:10,566
-c'est un modèle informatique d'une carte globale
+c’est un modèle informatique d’une carte globale
 
 18
 00:01:10,566 --> 00:01:12,772
-de l'univers connu.
+de l’univers connu.
 
 19
 00:01:12,772 --> 00:01:14,740
@@ -80,27 +80,27 @@ de la taille du problème (rires).
 
 21
 00:01:18,230 --> 00:01:20,329
-En fait c'est une allusion à
+En fait c’est une allusion à
 
 22
 00:01:20,329 --> 00:01:23,036
-ce que j'étais supposé devenir
+ce que j’étais supposé devenir
 
 23
 00:01:23,036 --> 00:01:26,011
-parce que j'étais étudiant en astrophysique
+parce que j’étais étudiant en astrophysique
 
 24
 00:01:26,011 --> 00:01:30,570
-et j'ai changé pour l'informatique au collège.
+et j’ai changé pour l’informatique au collège.
 
 25
 00:01:30,570 --> 00:01:34,589
-Mon regard sur le monde de l'informatique est
+Mon regard sur le monde de l’informatique est
 
 26
 00:01:34,589 --> 00:01:38,792
-que nous utilisons aujourd'hui encore
+que nous utilisons aujourd’hui encore
 
 27
 00:01:38,792 --> 00:01:41,018
@@ -112,7 +112,7 @@ Nous ne sommes pas très éloignés de ces deux gars
 
 29
 00:01:44,653 --> 00:01:46,357
-sur l'aspect logiciel.
+sur l’aspect logiciel.
 
 30
 00:01:46,357 --> 00:01:49,283
@@ -136,7 +136,7 @@ Al doit bien se marrer.
 
 35
 00:01:58,902 --> 00:02:02,541
-Du moins je l'espère. :-) (rires)
+Du moins je l’espère. :-) (rires)
 
 36
 00:02:02,541 --> 00:02:08,308
@@ -172,7 +172,7 @@ Si vous regardez de plus près, vous voyez
 
 44
 00:02:29,588 --> 00:02:32,839
-des langages créés pour l'Amiga.
+des langages créés pour l’Amiga.
 
 45
 00:02:32,839 --> 00:02:34,465
@@ -192,7 +192,7 @@ Ce Basic était fondamentalement un DSL.
 
 49
 00:02:46,500 --> 00:02:50,240
-C'était un outil que j'ai utilisé
+C’était un outil que j’ai utilisé
 
 50
 00:02:50,240 --> 00:02:52,899
@@ -200,7 +200,7 @@ il y a plus de 20 ans.
 
 51
 00:02:52,899 --> 00:02:56,445
-Ce DSL était pensé pour l'animation…
+Ce DSL était pensé pour l’animation…
 
 52
 00:02:56,445 --> 00:03:00,268
@@ -208,7 +208,7 @@ Ce DSL était pensé pour l'animation…
 
 53
 00:03:00,268 --> 00:03:04,439
-Et la totalité de l'interpréteur, du compilateur et de l'IDE
+Et la totalité de l’interpréteur, du compilateur et de l’IDE
 
 54
 00:03:04,439 --> 00:03:10,624
@@ -216,7 +216,7 @@ Et la totalité de l'interpréteur, du compilateur et de l'IDE
 
 55
 00:03:10,624 --> 00:03:15,262
-Ce gars a été une source d'inspiration pour moi.
+Ce gars a été une source d’inspiration pour moi.
 
 56
 00:03:15,262 --> 00:03:19,448
@@ -224,7 +224,7 @@ Malgré tant de langages de programmation
 
 57
 00:03:19,448 --> 00:03:22,985
-et d'outils nous en cherchons toujours un nouveau,
+et d’outils nous en cherchons toujours un nouveau,
 
 58
 00:03:22,985 --> 00:03:25,197
@@ -240,11 +240,11 @@ dans le monde logiciel sont maintenant bien connus
 
 61
 00:03:31,225 --> 00:03:34,345
-mais nous n'arrivons pas à les dépasser.
+mais nous n’arrivons pas à les dépasser.
 
 62
 00:03:34,345 --> 00:03:37,582
-Comme l'explosion de la complexité… les usines à gaz…
+Comme l’explosion de la complexité… les usines à gaz…
 
 63
 00:03:37,582 --> 00:03:40,334
@@ -284,7 +284,7 @@ parce que programmer est une activité ludique.
 
 72
 00:04:02,665 --> 00:04:05,265
-Et c'est l'esprit que nous devrions avoir lorsque
+Et c’est l’esprit que nous devrions avoir lorsque
 
 73
 00:04:05,265 --> 00:04:07,852
@@ -292,11 +292,11 @@ nous sommes face à un ordinateur et travaillons avec.
 
 74
 00:04:07,852 --> 00:04:11,400
-C'est comme en ce temps où la programmation
+C’est comme en ce temps où la programmation
 
 75
 00:04:11,400 --> 00:04:13,440
-n'était *que* ludique.
+n’était *que* ludique.
 
 76
 00:04:13,440 --> 00:04:16,441
@@ -316,15 +316,15 @@ changements particulièrement importants du monde informatique.
 
 80
 00:04:25,710 --> 00:04:28,281
-Le premier est l'augmentation de la puissance
+Le premier est l’augmentation de la puissance
 
 81
 00:04:28,281 --> 00:04:31,224
-des ordinateurs par l'ajout de nouveaux cœurs
+des ordinateurs par l’ajout de nouveaux cœurs
 
 82
 00:04:31,224 --> 00:04:34,934
-au lieu de l'augmentation de la fréquence des processeurs.
+au lieu de l’augmentation de la fréquence des processeurs.
 
 83
 00:04:34,934 --> 00:04:39,320
@@ -344,7 +344,7 @@ Le marché évolue très vite.
 
 87
 00:04:49,987 --> 00:04:52,947
-Les outils de programmation doivent s'adapter.
+Les outils de programmation doivent s’adapter.
 
 88
 00:04:52,947 --> 00:04:56,540
@@ -356,7 +356,7 @@ nous utilisons encore de vieux outils, en fait.
 
 90
 00:04:59,593 --> 00:05:03,677
-J'ai pris les cinq langages de programmation
+J’ai pris les cinq langages de programmation
 
 91
 00:05:03,677 --> 00:05:07,004
@@ -372,19 +372,19 @@ Houaou, C est encore en tête
 
 94
 00:05:12,114 --> 00:05:14,672
-alors qu'il a presque 40 ans maintenant.
+alors qu’il a presque 40 ans maintenant.
 
 95
 00:05:14,672 --> 00:05:18,748
-C'est vraiment très long pour l'informatique !
+C’est vraiment très long pour l’informatique !
 
 96
 00:05:18,748 --> 00:05:22,984
-Et C n'est absolument pas fait pour répondre
+Et C n’est absolument pas fait pour répondre
 
 97
 00:05:22,984 --> 00:05:25,417
-aux besoins modernes de l'informatique.
+aux besoins modernes de l’informatique.
 
 98
 00:05:25,417 --> 00:05:27,973
@@ -392,7 +392,7 @@ Si vous regardez les suivants
 
 99
 00:05:27,973 --> 00:05:30,784
-c'est à peu de choses près la même histoire.
+c’est à peu de choses près la même histoire.
 
 100
 00:05:30,784 --> 00:05:33,205
@@ -404,7 +404,7 @@ Heureusement pour nous, centaines personnes…
 
 102
 00:05:36,211 --> 00:05:41,981
-et capables d'apporter une réponse à ces problèmes.
+et capables d’apporter une réponse à ces problèmes.
 
 103
 00:05:41,981 --> 00:05:45,129
@@ -436,15 +436,15 @@ bonne solution à un grand nombre de questions.
 
 110
 00:06:01,978 --> 00:06:05,352
-Il y a une chose que j'aimerais montrer à Carl…
+Il y a une chose que j’aimerais montrer à Carl…
 
 111
 00:06:05,352 --> 00:06:08,556
-… peut-être ne l'a-t-il pas vu ?
+… peut-être ne l’a-t-il pas vu ?
 
 112
 00:06:08,556 --> 00:06:12,917
-Les merveilles que faisait Rebol, jusqu'à récemment,
+Les merveilles que faisait Rebol, jusqu’à récemment,
 
 113
 00:06:12,917 --> 00:06:17,277
@@ -452,7 +452,7 @@ Les merveilles que faisait Rebol, jusqu'à récemment,
 
 114
 00:06:17,277 --> 00:06:20,004
-louant et essayant d'expliquer aux gens comment Rebol
+louant et essayant d’expliquer aux gens comment Rebol
 
 115
 00:06:20,004 --> 00:06:23,947
@@ -464,7 +464,7 @@ Mais récemment une étude scientifique a essayé de mesurer
 
 117
 00:06:28,282 --> 00:06:32,13
-l'expressivité des langages de programmation.
+l’expressivité des langages de programmation.
 
 118
 00:06:32,133 --> 00:06:37,597
@@ -492,15 +492,15 @@ Rebol est un outil très productif
 
 124
 00:06:53,307 --> 00:06:55,935
-et c'est maintenant prouvé. (rires)
+et c’est maintenant prouvé. (rires)
 
 125
 00:06:55,935 --> 00:07:00,715
-Mais Red tente d'aller au delà de ce que Rebol peut offrir.
+Mais Red tente d’aller au delà de ce que Rebol peut offrir.
 
 126
 00:07:00,715 --> 00:07:03,002
-Principalement en terme d'implémentation
+Principalement en terme d’implémentation
 
 127
 00:07:03,002 --> 00:07:06,519
@@ -508,7 +508,7 @@ non en terme de sémantique ou de syntaxe.
 
 128
 00:07:06,519 --> 00:07:10,458
-Surtout en terme de chaîne de compilation, d'implémentations,
+Surtout en terme de chaîne de compilation, d’implémentations,
 
 129
 00:07:10,458 --> 00:07:13,065
@@ -516,11 +516,11 @@ et de diffusion.
 
 130
 00:07:13,065 --> 00:07:16,160
-Mais en fin de compte, c'est quoi Red ?
+Mais en fin de compte, c’est quoi Red ?
 
 131
 00:07:16,160 --> 00:07:17,653
-Red est ce que j'appelle
+Red est ce que j’appelle
 
 132
 00:07:17,653 --> 00:07:19,212
@@ -532,7 +532,7 @@ Peut-être avez-vous entendu parler de développeurs full-Stack ?
 
 134
 00:07:22,317 --> 00:07:25,796
-De la même manière, c'est un langage de programmation full-Stack.
+De la même manière, c’est un langage de programmation full-Stack.
 
 135
 00:07:25,796 --> 00:07:28,995
@@ -540,7 +540,7 @@ Et probablement sa caractéristique principale
 
 136
 00:07:28,995 --> 00:07:31,188
-réside dans son domaine d'application
+réside dans son domaine d’application
 
 137
 00:07:31,188 --> 00:07:33,287
@@ -552,15 +552,15 @@ Il y a beaucoup de langages
 
 139
 00:07:35,182 --> 00:07:39,288
-qui se dise *généralistes*…
+qui se disent *généralistes*…
 
 140
 00:07:39,288 --> 00:07:43,358
-…mais il ne le sont pas autant que Red peut l'être.
+…mais il ne le sont pas autant que Red peut l’être.
 
 141
 00:07:43,358 --> 00:07:47,121
-L'autre grande caractéristique de Red
+L’autre grande caractéristique de Red
 
 142
 00:07:47,121 --> 00:07:49,413
@@ -576,7 +576,7 @@ nous avons la notre.
 
 145
 00:07:56,488 --> 00:07:59,648
-Un autre aspect important de red
+Un autre aspect important de Red
 
 146
 00:07:59,648 --> 00:08:01,421
@@ -588,7 +588,7 @@ Depuis le début, mon projet pour Red
 
 148
 00:08:03,695 --> 00:08:07,334
-était de l'affranchir de toute restriction
+était de l’affranchir de toute restriction
 
 149
 00:08:07,334 --> 00:08:08,995
@@ -604,7 +604,7 @@ Red est facile à utiliser, *merci Rebol*…
 
 152
 00:08:18,165 --> 00:08:23,770
-…mais Red n'a pas de restrictions arbitraires.
+…mais Red n’a pas de restrictions arbitraires.
 
 153
 00:08:23,770 --> 00:08:26,374
@@ -612,7 +612,7 @@ Nous essayons de répondre autant que possible
 
 154
 00:08:26,374 --> 00:08:28,138
-à chaque besoin et chaque aspect pour qu'il puisse
+à chaque besoin et chaque aspect pour qu’il puisse
 
 155
 00:08:28,138 --> 00:08:33,154
@@ -624,7 +624,7 @@ Ensuite, une chose importante en programmation :
 
 157
 00:08:35,799 --> 00:08:39,061
-nous avons besoin de ressentir qui nous contrôlons l'outil.
+nous avons besoin de ressentir qui nous contrôlons l’outil.
 
 158
 00:08:39,061 --> 00:08:42,836
@@ -644,7 +644,7 @@ Le plus souvent parce que ce sont des boîtes noires.
 
 162
 00:08:48,730 --> 00:08:52,495
-Ou parce qu'ils sont au sommet d'une grande pile
+Ou parce qu’ils sont au sommet d’une grande pile
 
 163
 00:08:52,495 --> 00:08:56,225
@@ -680,11 +680,11 @@ viennent me voir et me disent :
 
 171
 00:09:16,175 --> 00:09:17,367
-« C'est génial parce que c'est amusant. »
+« C’est génial parce que c’est amusant. »
 
 172
 00:09:17,367 --> 00:09:21,281
-« J'ai seulement essayé ça, ça marche, et c'est super. »
+« J’ai seulement essayé ça, ça marche, et c’est super. »
 
 173
 00:09:21,281 --> 00:09:25,132
@@ -704,7 +704,7 @@ de votre outil de programmation.
 
 177
 00:09:31,121 --> 00:09:34,387
-Je vais essayé d'expliquer ce que je veux dire par
+Je vais essayé d’expliquer ce que je veux dire par
 
 178
 00:09:34,387 --> 00:09:36,782
@@ -716,11 +716,11 @@ Je vais essayé d'expliquer ce que je veux dire par
 
 180
 00:09:40,455 --> 00:09:42,096
-J'ai fait ce graphique :
+J’ai fait ce graphique :
 
 181
 00:09:42,096 --> 00:09:43,414
-« Domaine d'application d'un logiciel »
+« Domaine d’application d’un logiciel »
 
 182
 00:09:43,414 --> 00:09:46,570
@@ -728,7 +728,7 @@ pour un petit nombre de langages de programmation.
 
 183
 00:09:46,570 --> 00:09:49,393
-Par exemple, l'assembleur est pour les pilotes
+Par exemple, l’assembleur est pour les pilotes
 
 184
 00:09:49,393 --> 00:09:52,019
@@ -740,7 +740,7 @@ Vous pouvez voir que Java est réellement limité
 
 186
 00:09:54,895 --> 00:09:58,084
-dans ses capacités à modéliser différents niveaux d'abstraction.
+dans ses capacités à modéliser différents niveaux d’abstraction.
 
 187
 00:09:58,084 --> 00:10:00,607
@@ -748,19 +748,19 @@ Ruby est assez étendu ;
 
 188
 00:10:00,607 --> 00:10:02,989
-peut-être qu'il n'atteint pas l'OS ?
+peut-être qu’il n’atteint pas l’OS ?
 
 189
 00:10:02,989 --> 00:10:05,598
-Je ne sais pas si l'interface Ruby
+Je ne sais pas si l’interface Ruby
 
 190
 00:10:05,598 --> 00:10:09,888
-qui appelle l'API de l'OS est réellement bonne ou pas.
+qui appelle l’API de l’OS est réellement bonne ou pas.
 
 191
 00:10:09,888 --> 00:10:13,324
-Rebol a un très large rayon d'action.
+Rebol a un très large rayon d’action.
 
 192
 00:10:13,324 --> 00:10:16,880
@@ -768,15 +768,15 @@ Rascal est un langage de programmation très spécifique.
 
 193
 00:10:16,880 --> 00:10:19,540
-C'est une sorte de DSL,
+C’est une sorte de DSL,
 
 194
 00:10:19,540 --> 00:10:23,246
-destiné à écrire d'autres DSLs.
+destiné à écrire d’autres DSLs.
 
 195
 00:10:23,246 --> 00:10:26,522
-Il se tient au niveau d'un meta-DSL.
+Il se tient au niveau d’un meta-DSL.
 
 196
 00:10:26,522 --> 00:10:30,356
@@ -804,11 +804,11 @@ soit capable de couvrir tous ces besoins
 
 202
 00:10:45,913 --> 00:10:48,272
-sans dépendre d'aucun autre.
+sans dépendre d’aucun autre.
 
 203
 00:10:48,272 --> 00:10:51,236
-Vous me direz peut-être que c'est impossible
+Vous me direz peut-être que c’est impossible
 
 204
 00:10:51,236 --> 00:10:53,307
@@ -816,7 +816,7 @@ de créer un langage capable
 
 205
 00:10:53,307 --> 00:10:56,058
-d'appréhender un spectre aussi large.
+d’appréhender un spectre aussi large.
 
 206
 00:10:56,058 --> 00:10:58,201
@@ -824,7 +824,7 @@ Et vous avez raison.
 
 207
 00:10:58,201 --> 00:11:00,771
-Mais red a une carte maîtresse.
+Mais Red a une carte maîtresse.
 
 208
 00:11:00,771 --> 00:11:04,418
@@ -844,11 +844,11 @@ et marche de concert.
 
 212
 00:11:11,702 --> 00:11:15,114
-Red / System, en fait, est un dialect de Red.
+Red / System, en fait, est un dialecte de Red.
 
 213
 00:11:15,114 --> 00:11:17,191
-Vous pouvez l'utiliser séparément
+Vous pouvez l’utiliser séparément
 
 214
 00:11:17,191 --> 00:11:20,112
@@ -860,15 +860,15 @@ Laissez moi vous montrer les plateformes que nous prenons en charge.
 
 216
 00:11:25,446 --> 00:11:26,597
-D'abord sur les stations de travail,
+D’abord sur les stations de travail,
 
 217
 00:11:26,597 --> 00:11:30,755
-nous prenons en charge les trois principaux.
+nous prenons en charge les trois principales.
 
 218
 00:11:30,755 --> 00:11:34,424
-Nous prenons aussi en charge d'autres
+Nous prenons aussi en charge d’autres
 
 219
 00:11:34,424 --> 00:11:36,693
@@ -884,11 +884,11 @@ mais nous rencontrons quelques problèmes de bas niveau
 
 222
 00:11:41,350 --> 00:11:45,053
-et n'avons parmi nous aucun expert FreeBSD
+et n’avons parmi nous aucun expert FreeBSD
 
 223
 00:11:45,053 --> 00:11:48,456
-pour les résoudre, donc pour le moment c'est au point mort.
+pour les résoudre, donc pour le moment c’est au point mort.
 
 224
 00:11:48,456 --> 00:11:52,454
@@ -904,7 +904,7 @@ Nous visons aussi le marché
 
 227
 00:11:57,687 --> 00:12:00,774
-de l'embarqué, à commencer par Android
+de l’embarqué, à commencer par Android
 
 228
 00:12:00,774 --> 00:12:02,771
@@ -928,7 +928,7 @@ Je suppose que Bo donnera quelques
 
 233
 00:12:14,720 --> 00:12:17,929
-démonstrations demain probablement.
+démonstrations, demain probablement.
 
 234
 00:12:17,929 --> 00:12:22,868
@@ -940,11 +940,11 @@ Nous commençons sur AVR 8-bit.
 
 236
 00:12:27,030 --> 00:12:30,044
-Mais c'est une expérience pour le moment
+Mais c’est une expérience pour le moment
 
 237
 00:12:30,044 --> 00:12:32,895
-parce que d'autres cartes viendront
+parce que d’autres cartes viendront
 
 238
 00:12:32,895 --> 00:12:36,014
@@ -952,7 +952,7 @@ comme les cartes 32-bit ou le Raspberry Pi.
 
 239
 00:12:36,014 --> 00:12:41,790
-Le support 8-bit n'est pas notre préoccupation immédiate.
+Le support 8-bit n’est pas notre préoccupation immédiate.
 
 240
 00:12:41,790 --> 00:12:45,320
@@ -976,11 +976,11 @@ pour y parvenir.
 
 245
 00:12:56,467 --> 00:13:00,940
-Avoir un pont, conserver Red tel qu'il est maintenant
+Avoir un pont, conserver Red tel qu’il est maintenant
 
 246
 00:13:00,940 --> 00:13:06,438
-et ajouter ce qu'il manque pour les machines virtuelles.
+et ajouter ce qu’il manque pour les machines virtuelles.
 
 247
 00:13:06,438 --> 00:13:08,746
@@ -1020,7 +1020,7 @@ Pour le moment nous faisons le pont pour la JVM.
 
 256
 00:13:33,188 --> 00:13:37,997
-Mais probablement que nous compileront directement pour JavaScript
+Mais probablement que nous compileront directement pour JavaScript.
 
 257
 00:13:37,997 --> 00:13:41,551
@@ -1032,7 +1032,7 @@ une plateforme cible très intéressante.
 
 259
 00:13:45,325 --> 00:13:47,584
-Je m'attend à ce que Red et Red / System
+Je m’attend à ce que Red et Red / System
 
 260
 00:13:47,584 --> 00:13:50,755
@@ -1104,27 +1104,27 @@ Pour la cross-compilation… Red est maintenant capable de cross-compiler
 
 277
 00:14:45,499 --> 00:14:49,442
-de n'importe quel système vers n'importe quel autre.
+de n’importe quel système vers n’importe quel autre.
 
 278
 00:14:49,442 --> 00:14:52,731
-En fait il est capable de compiler depuis n'importe quel plateforme
+En fait il est capable de compiler depuis n’importe quel plateforme
 
 279
 00:14:52,731 --> 00:14:56,113
-où Rebol fonctionne vers n'importe quel autre plateforme.
+où Rebol fonctionne vers n’importe quel autre plateforme.
 
 280
 00:14:56,113 --> 00:15:00,808
-Pour y parvenir, vous n'avez pas besoin d'un HOWTO,
+Pour y parvenir, vous n’avez pas besoin d’un HOWTO,
 
 281
 00:15:00,808 --> 00:15:02,363
-vous n'avez par besoin d'un tutoriel,
+vous n’avez par besoin d’un tutoriel,
 
 282
 00:15:02,363 --> 00:15:04,788
-vous n'avez pas besoin de rechercher sur le Web
+vous n’avez pas besoin de rechercher sur le Web
 
 283
 00:15:04,788 --> 00:15:07,182
@@ -1132,19 +1132,19 @@ pour savoir comment faire.
 
 284
 00:15:07,182 --> 00:15:10,293
-Vous passez simplement l'option « -t », l'identifiant de la cible
+Vous passez simplement l’option « -t », l’identifiant de la cible
 
 285
 00:15:10,293 --> 00:15:11,777
-et c'est tout !
+et c’est tout !
 
 286
 00:15:11,777 --> 00:15:16,750
-L'identifiant de la cible est seulement une entrée
+L’identifiant de la cible est seulement une entrée
 
 287
 00:15:16,750 --> 00:15:21,988
-dans un fichier de configuration, un simple dialect Red,
+dans un fichier de configuration, un simple dialecte Red,
 
 288
 00:15:21,988 --> 00:15:26,132
@@ -1152,7 +1152,7 @@ qui énumère quelques options pour les plateformes cibles.
 
 289
 00:15:26,132 --> 00:15:31,110
-Donc, pour le moment, nous avons cette liste d'environ 8 cibles
+Donc, pour le moment, nous avons cette liste d’environ 8 cibles
 
 290
 00:15:31,110 --> 00:15:33,602
@@ -1164,7 +1164,7 @@ Nous pouvons les cross-compiler mutuellement
 
 292
 00:15:35,828 --> 00:15:40,124
-fonctionne sur ces plateformes
+fonctionne sur ces plateformes.
 
 293
 00:15:40,124 --> 00:15:41,557
@@ -1196,7 +1196,7 @@ principalement les deux sorties x68 et ARM.
 
 300
 00:16:07,115 --> 00:16:11,919
-Mais nous prévoyons d'étendre son support
+Mais nous prévoyons d’étendre son support
 
 301
 00:16:11,919 --> 00:16:17,236
@@ -1224,11 +1224,11 @@ de la plateforme .NET.
 
 307
 00:16:37,043 --> 00:16:39,737
-L'éditeur de liens supporte les formats principaux.
+L’éditeur de liens supporte les formats principaux.
 
 308
 00:16:39,737 --> 00:16:43,532
-Nous l'étendrons aux bibliothèques statiques.
+Nous l’étendrons aux bibliothèques statiques.
 
 309
 00:16:43,532 --> 00:16:46,418
@@ -1244,11 +1244,11 @@ le lier ensuite avec une autre chaîne de compilation, comme C.
 
 312
 00:16:55,233 --> 00:16:59,655
-C'est une autre manière de diffuser Red
+C’est une autre manière de diffuser Red
 
 313
 00:16:59,655 --> 00:17:02,448
-et de permettre aux gens de l'utiliser
+et de permettre aux gens de l’utiliser
 
 314
 00:17:02,448 --> 00:17:04,962
@@ -1264,7 +1264,7 @@ et proposerons un support pour écrire des pilotes,
 
 317
 00:17:14,305 --> 00:17:19,234
-ou même un système d'exploitation entier,
+ou même un système d’exploitation entier,
 
 318
 00:17:19,234 --> 00:17:21,787
@@ -1280,15 +1280,15 @@ de pilotes Windows, déjà fonctionnel.
 
 321
 00:17:27,504 --> 00:17:31,980
-S'il y a des développeurs noyau parmi nous,
+S’il y a des développeurs noyau parmi nous,
 
 322
 00:17:31,980 --> 00:17:34,213
-c'est le moment de vous éclatez. :-P
+c’est le moment de vous éclatez. :-P
 
 323
 00:17:34,213 --> 00:17:37,458
-Enfin : une chose qui n'existe pas à ma connaissance
+Enfin : une chose qui n’existe pas à ma connaissance
 
 324
 00:17:37,458 --> 00:17:40,247
@@ -1296,11 +1296,11 @@ dans la chaîne de compilation C classique :
 
 325
 00:17:40,247 --> 00:17:42,530
-nous aurons une couche d'empaquetage
+nous aurons une couche d’empaquetage
 
 326
 00:17:42,530 --> 00:17:46,044
-elle n'est pas encore implémentée, mais c'est pour bientôt.
+elle n’est pas encore implémentée, mais c’est pour bientôt.
 
 327
 00:17:46,044 --> 00:17:51,589
@@ -1308,7 +1308,7 @@ Nous commencerons par la sortie Android APK.
 
 328
 00:17:51,589 --> 00:17:54,697
-L'objet de cette couche est uniquement
+L’objet de cette couche est uniquement
 
 329
 00:17:54,697 --> 00:17:58,850
@@ -1324,7 +1324,7 @@ Nous supporterons Android et iOS
 
 332
 00:18:06,426 --> 00:18:08,997
-Mais il sera aussi possible d'empaqueter
+Mais il sera aussi possible d’empaqueter
 
 333
 00:18:08,997 --> 00:18:13,409
@@ -1340,7 +1340,7 @@ qui a des capacités intéressantes
 
 336
 00:18:20,196 --> 00:18:23,489
-comme simplifier le déploiement d'applications web
+comme simplifier le déploiement d’applications web
 
 337
 00:18:23,489 --> 00:18:25,276
@@ -1360,7 +1360,7 @@ Un autre aspect de la chaîne de compilation
 
 341
 00:18:31,027 --> 00:18:32,544
-est qu'actuellement elle est 
+est qu’actuellement elle est 
 
 342
 00:18:32,544 --> 00:18:36,774
@@ -1380,19 +1380,19 @@ Pour ça, nous devons nous auto-héberger.
 
 346
 00:18:50,717 --> 00:18:54,347
-Nous avons donc besoin d'un Red écrit en Red.
+Nous avons donc besoin d’un Red écrit en Red.
 
 347
 00:18:54,347 --> 00:18:58,587
-C'est la seule manière d'avoir un compilateur JIT propre.
+C’est la seule manière d’avoir un compilateur JIT propre.
 
 348
 00:18:58,587 --> 00:19:03,543
-Nous travaillerons probablement sur ce sujet l'année à venir.
+Nous travaillerons probablement sur ce sujet l’année à venir.
 
 349
 00:19:03,543 --> 00:19:07,550
-J'ai quelques diapos sur le langage Red lui-même.
+J’ai quelques diapos sur le langage Red lui-même.
 
 350
 00:19:07,550 --> 00:19:10,796
@@ -1408,7 +1408,7 @@ La première chose à comprendre à propos de Red
 
 353
 00:19:18,018 --> 00:19:21,098
-est qu'il est très proche de Rebol.
+est qu’il est très proche de Rebol.
 
 354
 00:19:21,098 --> 00:19:26,585
@@ -1432,11 +1432,11 @@ en utilisant le paradigme de votre choix.
 
 359
 00:19:43,031 --> 00:19:46,673
-de Gabriele (Santilli) que j'aime particulièrement
+de Gabriele (Santilli) que j’aime particulièrement
 
 360
 00:19:46,673 --> 00:19:50,013
-parce qu'elle exprime bien cette habileté
+parce qu’elle exprime bien cette habileté
 
 361
 00:19:50,013 --> 00:19:53,878
@@ -1460,19 +1460,19 @@ de retour des functions.
 
 366
 00:20:12,147 --> 00:20:17,048
-En Rebol, ça n'a pas de sens parce que
+En Rebol, ça n’a pas de sens parce que
 
 367
 00:20:17,048 --> 00:20:25,102
-c'est un interpréteur, et il n'y a pas de valeur.
+c’est un interpréteur, et il n’y a pas de valeur.
 
 368
 00:20:25,102 --> 00:20:27,874
-Mais pour un compilateur, c'est très utile.
+Mais pour un compilateur, c’est très utile.
 
 369
 00:20:27,874 --> 00:20:33,604
-Parce que l'annotation des types des fonctions
+Parce que l’annotation des types des fonctions
 
 370
 00:20:33,604 --> 00:20:37,791
@@ -1520,15 +1520,15 @@ et le compilateur sera capable de mieux vérifier les types
 
 381
 00:21:13,702 --> 00:21:16,969
-et de fournir des avertissements et messages d'erreurs
+et de fournir des avertissements et messages d’erreurs
 
 382
 00:21:16,969 --> 00:21:21,230
-à la compilation au lieu de l'exécution.
+à la compilation au lieu de l’exécution.
 
 383
 00:21:21,230 --> 00:21:28,353
-Si vous n'utilisez pas les annotations de type
+Si vous n’utilisez pas les annotations de type
 
 384
 00:21:28,353 --> 00:21:31,687
@@ -1536,7 +1536,7 @@ le compilateur sera encore capable dans
 
 385
 00:21:31,687 --> 00:21:34,141
-certains cas d'inférer seul les types.
+certains cas d’inférer seul les types.
 
 386
 00:21:34,141 --> 00:21:36,654
@@ -1548,7 +1548,7 @@ Mais Red, comme Rebol, est un langage très dynamique
 
 388
 00:21:41,093 --> 00:21:48,734
-et les cas où le moteur d'inférence ne peut pas
+et les cas où le moteur d’inférence ne peut pas
 
 389
 00:21:48,734 --> 00:21:53,581
@@ -1560,7 +1560,7 @@ Donc, ça aidera un peu, mais pas tellement.
 
 391
 00:21:56,756 --> 00:22:01,167
-Nous avons biensûr le support d'Unicode.
+Nous avons biensûr le support d’Unicode.
 
 392
 00:22:01,167 --> 00:22:04,623
@@ -1596,11 +1596,11 @@ par point.
 
 400
 00:22:37,921 --> 00:22:40,144
-Et le système s'adapte automatiquement
+Et le système s’adapte automatiquement
 
 401
 00:22:40,144 --> 00:22:43,224
-et ajuste la taille suivant l'entrée
+et ajuste la taille suivant l’entrée
 
 402
 00:22:43,224 --> 00:22:48,908
@@ -1616,11 +1616,11 @@ est le support de la concurrence.
 
 405
 00:22:57,640 --> 00:23:00,108
-Pour le moment ce n'est pas implémenté
+Pour le moment ce n’est pas implémenté
 
 406
 00:23:00,108 --> 00:23:04,207
-donc je ne m'étendrais pas sur ce point.
+donc je ne m’étendrais pas sur ce point.
 
 407
 00:23:04,207 --> 00:23:09,102
@@ -1636,15 +1636,15 @@ pour exécuter plusieurs threads
 
 410
 00:23:15,331 --> 00:23:18,367
-en parallèle sur plus d'un cœur.
+en parallèle sur plus d’un cœur.
 
 411
 00:23:18,367 --> 00:23:21,891
-Nous utiliserons surement l'abstraction par Acteur.
+Nous utiliserons surement l’abstraction par Acteur.
 
 412
 00:23:21,891 --> 00:23:26,693
-Mais il y a d'autres abstractions
+Mais il y a d’autres abstractions
 
 413
 00:23:26,693 --> 00:23:31,042
@@ -1652,11 +1652,11 @@ qui depuis le début de Red
 
 414
 00:23:31,042 --> 00:23:34,926
-ont suscité beaucoup d'intérêt, comme les Go routines
+ont suscité beaucoup d’intérêt, comme les Go routines
 
 415
 00:23:34,926 --> 00:23:38,981
-qui sont devenues un point d'attraction
+qui sont devenues un point d’attraction
 
 416
 00:23:38,981 --> 00:23:40,645
@@ -1664,7 +1664,7 @@ du langage Go.
 
 417
 00:23:40,645 --> 00:23:43,082
-C'est peut-être une chose à considérer
+C’est peut-être une chose à considérer
 
 418
 00:23:43,082 --> 00:23:45,725
@@ -1676,7 +1676,7 @@ en plus ou en remplacement des acteurs
 
 420
 00:23:48,651 --> 00:23:50,974
-ou d'autres types d'abstraction
+ou d’autres types d’abstraction
 
 421
 00:23:50,974 --> 00:23:54,765
@@ -1688,7 +1688,7 @@ nous devrons réviser tous les choix
 
 423
 00:23:57,311 --> 00:23:59,900
-d'implémentation et voir
+d’implémentation et voir
 
 424
 00:23:59,900 --> 00:24:03,665
@@ -1696,7 +1696,7 @@ si nous pouvons les mettre à jour
 
 425
 00:24:03,665 --> 00:24:06,840
-en copiant d'autres strategies payantes.
+en copiant d’autres strategies payantes.
 
 426
 00:24:06,840 --> 00:24:09,047
@@ -1720,7 +1720,7 @@ de paralléliser des series Red.
 
 431
 00:24:25,917 --> 00:24:30,758
-Nous voulons aussi nous occuper d'une chose
+Nous voulons aussi nous occuper d’une chose
 
 432
 00:24:30,758 --> 00:24:33,476
@@ -1740,15 +1740,15 @@ Rebol est exceptionnel pour ça.
 
 436
 00:24:41,438 --> 00:24:44,368
-C'est probablement le meilleur outil
+C’est probablement le meilleur outil
 
 437
 00:24:44,368 --> 00:24:45,658
-parce qu'il possède PARSE et parce
+parce qu’il possède PARSE et parce
 
 438
 00:24:45,658 --> 00:24:48,084
-qu'il a certaines qualités intéressantes
+qu’il a certaines qualités intéressantes
 
 439
 00:24:48,084 --> 00:24:50,101
@@ -1764,15 +1764,15 @@ est une tâche difficile en soi.
 
 442
 00:24:57,186 --> 00:24:59,774
-Parce que vous devez le concevoir d'abord.
+Parce que vous devez le concevoir d’abord.
 
 443
 00:24:59,774 --> 00:25:01,425
-C'est déjà un gros travail.
+C’est déjà un gros travail.
 
 444
 00:25:01,425 --> 00:25:03,427
-Ensuite seulement vous pouvez l'implémenter.
+Ensuite seulement vous pouvez l’implémenter.
 
 445
 00:25:03,427 --> 00:25:07,113
@@ -1780,7 +1780,7 @@ Et implémenter un DSL ou un dialecte,
 
 446
 00:25:07,113 --> 00:25:11,151
-c'est implémenter un interpréteur ou un compilateur.
+c’est implémenter un interpréteur ou un compilateur.
 
 447
 00:25:11,151 --> 00:25:17,524
@@ -1788,7 +1788,7 @@ Dans ce cas de figure vous êtes presque seul avec le code.
 
 448
 00:25:17,524 --> 00:25:20,462
-Donc, vous n'avez pas vraiment de framework
+Donc, vous n’avez pas vraiment de framework
 
 449
 00:25:20,462 --> 00:25:22,134
@@ -1812,7 +1812,7 @@ pour fabriquer une sorte de méta-DSL
 
 454
 00:25:32,431 --> 00:25:38,218
-qui permettra d'être beaucoup plus productif
+qui permettra d’être beaucoup plus productif
 
 455
 00:25:38,218 --> 00:25:40,920
@@ -1876,7 +1876,7 @@ Donc, si nous prenons une expression Red très simple
 
 470
 00:26:45,535 --> 00:26:48,493
-le compilateur Red l'analyse
+le compilateur Red l’analyse
 
 471
 00:26:48,493 --> 00:26:53,88
@@ -1892,7 +1892,7 @@ et une autre pour les arguments.
 
 474
 00:27:01,819 --> 00:27:05,361
-Puis l'émetteur va produire le code Red / System
+Puis l’émetteur va produire le code Red / System
 
 475
 00:27:05,361 --> 00:27:08,363
@@ -1904,11 +1904,11 @@ Donc ce que vous voyez à droite
 
 477
 00:27:10,782 --> 00:27:14,350
-est une sortie Red / System pour l'expression
+est une sortie Red / System pour l’expression
 
 478
 00:27:14,350 --> 00:27:18,061
-qui appelle l'API du runtime Red.
+qui appelle l’API du runtime Red.
 
 479
 00:27:22,651 --> 00:27:28,334
@@ -1920,11 +1920,11 @@ et du langage Red
 
 481
 00:27:29,406 --> 00:27:34,169
-est la combinaison de plusieurs types d'approches
+est la combinaison de plusieurs types d’approches
 
 482
 00:27:34,169 --> 00:27:37,846
-qui est quelque chose d'unique, je pense.
+qui est quelque chose d’unique, je pense.
 
 483
 00:27:37,846 --> 00:27:41,156
@@ -1936,11 +1936,11 @@ Ce compilateur statique générera le code
 
 485
 00:27:44,538 --> 00:27:46,584
-avec un interprète à l'intérieur, et demain
+avec un interprète à l’intérieur, et demain
 
 486
 00:27:46,584 --> 00:27:51,606
-un compilateur JIT embarqué à l'intérieur de votre exécutable.
+un compilateur JIT embarqué à l’intérieur de votre exécutable.
 
 487
 00:27:51,606 --> 00:27:58,368
@@ -1948,7 +1948,7 @@ Ces trois parties seront en mesure de travailler ensemble
 
 488
 00:27:58,368 --> 00:28:02,334
-d'une manière très collaborative.
+d’une manière très collaborative.
 
 489
 00:28:02,334 --> 00:28:05,191
@@ -1976,11 +1976,11 @@ de la présentation du diaporama
 
 495
 00:28:21,707 --> 00:28:23,904
-avec un cas pratique d'une telle approche.
+avec un cas pratique d’une telle approche.
 
 496
 00:28:23,904 --> 00:28:28,901
-En fait, c'est un outil très puissant
+En fait, c’est un outil très puissant
 
 497
 00:28:28,901 --> 00:28:35,136
@@ -2028,7 +2028,7 @@ et votre code vient après ça.
 
 508
 00:29:17,254 --> 00:29:19,921
-Hello world s'écrit seulement [print "Hello World"]
+Hello world s’écrit seulement [print "Hello World"]
 
 509
 00:29:19,921 --> 00:29:22,312
@@ -2044,11 +2044,11 @@ excepté peut-être pour [return: [type!]]
 
 512
 00:29:32,270 --> 00:29:36,908
-qui est facultatif, mais c'est le genre de type
+qui est facultatif, mais c’est le genre de type
 
 513
 00:29:36,908 --> 00:29:40,409
-facultatif dont j'ai parlé avant.
+facultatif dont j’ai parlé avant.
 
 514
 00:29:40,409 --> 00:29:43,389
@@ -2056,7 +2056,7 @@ Vous avez un exemple ici.
 
 515
 00:29:43,389 --> 00:29:48,196
-Il n'est pas obligatoire, mais si vous le mettez
+Il n’est pas obligatoire, mais si vous le mettez
 
 516
 00:29:48,196 --> 00:29:54,758
@@ -2064,7 +2064,7 @@ le compilateur générera un code meilleur et plus rapide.
 
 517
 00:29:54,758 --> 00:29:59,006
-Ensuite une vue plus détaillé
+Ensuite une vue plus détaillée
 
 518
 00:29:59,006 --> 00:30:02,905
@@ -2080,7 +2080,7 @@ toutes ces choses coopèrent.
 
 521
 00:30:09,472 --> 00:30:13,971
-Si nous partons de l'homme sur le droit
+Si nous partons de l’homme sur le droit
 
 522
 00:30:13,971 --> 00:30:17,047
@@ -2100,7 +2100,7 @@ pour les deux compilateurs. Une pour Red, qui est
 
 526
 00:30:28,351 --> 00:30:32,604
-plus courte parce que c'est seulement un émetteur de code Red / System.
+plus courte parce que c’est seulement un émetteur de code Red / System.
 
 527
 00:30:32,604 --> 00:30:34,311
@@ -2108,7 +2108,7 @@ Et une pour Red / System
 
 528
 00:30:34,311 --> 00:30:36,720
-qui descend vers l'empaqueteur
+qui descend vers l’empaqueteur
 
 529
 00:30:36,720 --> 00:30:41,424
@@ -2148,7 +2148,7 @@ tous les fonctions natives, tout le code mezzanine,
 
 538
 00:31:12,104 --> 00:31:16,600
-l'interpréteur, les ponts, — comme java
+l’interpréteur, les ponts, — comme java
 
 539
 00:31:16,600 --> 00:31:19,025
@@ -2168,7 +2168,7 @@ Par exemple vous avez un accès direct
 
 543
 00:31:28,829 --> 00:31:31,993
-à l'API de l'OS mais aussi au noyau.
+à l’API de l’OS mais aussi au noyau.
 
 544
 00:31:31,993 --> 00:31:34,001
@@ -2176,7 +2176,7 @@ Sur Linux vous pouvez faire des appels système directement.
 
 545
 00:31:34,001 --> 00:31:38,340
-Et si nécessaire vous pouvez aller jusqu'au
+Et si nécessaire vous pouvez aller jusqu’au
 
 546
 00:31:38,340 --> 00:31:41,869
@@ -2196,7 +2196,7 @@ et Red / System pour les parties de bas niveau.
 
 550
 00:31:53,816 --> 00:31:57,120
-À propos de Red / System… J'ai une petite présentation
+À propos de Red / System… J’ai une petite présentation
 
 551
 00:31:57,120 --> 00:32:01,142
@@ -2204,11 +2204,11 @@ pour demain spécifique à Red / System, parce que
 
 552
 00:32:01,142 --> 00:32:06,082
-c'est le genre de chose qui est nouvelle comparé à Rebol.
+c’est le genre de chose qui est nouvelle comparée à Rebol.
 
 553
 00:32:06,082 --> 00:32:08,541
-J'ai juste une diapo sur Red / System
+J’ai juste une diapo sur Red / System
 
 554
 00:32:08,541 --> 00:32:10,120
@@ -2216,7 +2216,7 @@ pour vous donner un aperçu.
 
 555
 00:32:10,120 --> 00:32:16,748
-En gros c'est le type de chose réalisée en C
+En gros c’est le type de chose réalisée en C
 
 556
 00:32:16,748 --> 00:32:20,078
@@ -2224,7 +2224,7 @@ mais avec une syntaxe Red.
 
 557
 00:32:20,078 --> 00:32:22,760
-C'est dont souvent comme coder en Red
+C’est dont souvent comme coder en Red
 
 558
 00:32:22,760 --> 00:32:29,827
@@ -2232,11 +2232,11 @@ mais avec des types de données et des actions de très bas niveau.
 
 559
 00:32:29,827 --> 00:32:32,630
-C'est compilé statiquement.
+C’est compilé statiquement.
 
 560
 00:32:32,630 --> 00:32:35,956
-Ce n'est pas optimisé pour le moment. :-)
+Ce n’est pas optimisé pour le moment. :-)
 
 561
 00:32:35,956 --> 00:32:40,988
@@ -2244,23 +2244,23 @@ En étant seulement 4 fois plus lent que du C
 
 562
 00:32:40,988 --> 00:32:43,849
-optimisé et compilé avec l'option « -O2 ».
+optimisé et compilé avec l’option « -O2 ».
 
 563
 00:32:43,849 --> 00:32:47,674
-Donc, c'est d'un bon niveau, voir très très bon.
+Donc, c’est d’un bon niveau, voir très très bon.
 
 564
 00:32:47,674 --> 00:32:51,224
-Parce qu'une fois que nous ajouterons les couches
+Parce qu’une fois que nous ajouterons les couches
 
 565
 00:32:51,224 --> 00:32:53,398
-d'optimisation nous serons très très proche du C.
+d’optimisation nous serons très très proche du C.
 
 566
 00:32:53,398 --> 00:32:57,362
-Nous ne le battrons probablement pas, mais ce n'est pas le but.
+Nous ne le battrons probablement pas, mais ce n’est pas le but.
 
 567
 00:32:57,362 --> 00:33:00,014
@@ -2276,7 +2276,7 @@ Et il fait déjà des merveilles pour certains
 
 570
 00:33:09,334 --> 00:33:11,936
-traitement d'image par exemple
+traitement d’image par exemple
 
 571
 00:33:11,936 --> 00:33:15,680
@@ -2284,11 +2284,11 @@ que Bo (Lechnowsky) vous montrera demain.
 
 572
 00:33:15,680 --> 00:33:17,968
-Quelque chose que le langage C n'a pas
+Quelque chose que le langage C n’a pas
 
 573
 00:33:17,968 --> 00:33:22,310
-ou que la plupart des langages de très bas niveau n'ont pas :
+ou que la plupart des langages de très bas niveau n’ont pas :
 
 574
 00:33:22,310 --> 00:33:24,792
@@ -2304,7 +2304,7 @@ mais très statique, donc nous utilisons le mot clef CONTEXT
 
 577
 00:33:33,586 --> 00:33:35,909
-pour les déclarer en Red /System aussi.
+pour les déclarer en Red / System aussi.
 
 578
 00:33:35,909 --> 00:33:38,936
@@ -2316,11 +2316,11 @@ pour mettre une partie de votre code dans un contexte
 
 580
 00:33:43,428 --> 00:33:47,121
-quelque chose comme des déclarations dans d'autres langues.
+quelque chose comme des déclarations dans d’autres langues.
 
 581
 00:33:47,121 --> 00:33:52,155
-Nous avons un système de type très limité en Red / Système
+Nous avons un système de type très limité en Red / System
 
 582
 00:33:52,155 --> 00:34:00,763
@@ -2328,7 +2328,7 @@ Nous avons neuf types.
 
 583
 00:34:00,763 --> 00:34:05,467
-En gros les mêmes types de données qu'en C.
+En gros les mêmes types de données qu’en C.
 
 584
 00:34:05,467 --> 00:34:11,372
@@ -2336,11 +2336,11 @@ Les fonctions ne sont pas un type de données de première classe complet
 
 585
 00:34:11,372 --> 00:34:16,155
-J'ai beaucoup hésité à ce sujet, parce que…
+J’ai beaucoup hésité à ce sujet, parce que…
 
 586
 00:34:16,155 --> 00:34:19,723
-Si j'en fait un type de données de première classe complet
+Si j’en fait un type de données de première classe complet
 
 587
 00:34:19,723 --> 00:34:22,571
@@ -2348,11 +2348,11 @@ Les gens commenceront à me demander
 
 588
 00:34:22,571 --> 00:34:24,925
-de faire de Red /System un langage fonctionnel.
+de faire de Red / System un langage fonctionnel.
 
 589
 00:34:24,925 --> 00:34:27,986
-ce qui est possible mais ce n'est pas le but.
+ce qui est possible mais ce n’est pas le but.
 
 590
 00:34:27,986 --> 00:34:32,540
@@ -2360,23 +2360,23 @@ ce qui est possible mais ce n'est pas le but.
 
 591
 00:34:32,540 --> 00:34:37,835
-à ajouter de nouvelle fonctionnalités à ce type de données.
+à ajouter de nouvelles fonctionnalités à ce type de données.
 
 592
 00:34:37,835 --> 00:34:40,324
-nous avons l'inférence de type,
+nous avons l’inférence de type,
 
 593
 00:34:40,324 --> 00:34:42,395
-donc nous n'avons pas à spécifier le type de données
+donc nous n’avons pas à spécifier le type de données
 
 594
 00:34:42,395 --> 00:34:45,235
-d'une variable locale, le compilateur s'en occupe.
+d’une variable locale, le compilateur s’en occupe.
 
 595
 00:34:45,235 --> 00:34:48,666
-Nous avons aussi un transtypage limitée
+Nous avons aussi un transtypage limité
 
 596
 00:34:48,666 --> 00:34:52,473
@@ -2384,11 +2384,11 @@ pour les types compatibles.
 
 597
 00:34:52,473 --> 00:34:56,548
-Et nous avons quelque chose que C n'a pas
+Et nous avons quelque chose que C n’a pas
 
 598
 00:34:56,548 --> 00:35:04,017
-mais que C++ a, un certain niveau ne réflexivité.
+mais que C++ a, un certain niveau de réflexivité.
 
 599
 00:35:04,017 --> 00:35:07,445
@@ -2396,7 +2396,7 @@ Donc vous pouvez déclarer une fonction en Red / System
 
 600
 00:35:07,445 --> 00:35:12,157
-avec un nombre d'arguments variable
+avec un nombre d’arguments variable
 
 601
 00:35:12,157 --> 00:35:14,311
@@ -2404,11 +2404,11 @@ et vous pouvez mettre des parenthèses autour
 
 602
 00:35:14,311 --> 00:35:16,341
-et à l'intérieur du corps de cette fonction
+et à l’intérieur du corps de cette fonction
 
 603
 00:35:16,341 --> 00:35:19,854
-vous pouvez parcourir cette liste d'arguments
+vous pouvez parcourir cette liste d’arguments
 
 604
 00:35:19,854 --> 00:35:23,665
@@ -2416,11 +2416,11 @@ et vous pouvez interroger leur type.
 
 605
 00:35:23,665 --> 00:35:26,778
-C'est une fonctionnalité très puissante
+C’est une fonctionnalité très puissante
 
 606
 00:35:26,778 --> 00:35:32,499
-et actuellement Kaj de Vos l'utilise pour
+et actuellement Kaj de Vos l’utilise pour
 
 607
 00:35:32,499 --> 00:35:36,773
@@ -2432,7 +2432,7 @@ ce qui est un exploit en fait,
 
 609
 00:35:38,853 --> 00:35:42,243
-parce que nous n'avons pas de symboles en Red / System :-)
+parce que nous n’avons pas de symboles en Red / System :-)
 
 610
 00:35:42,243 --> 00:35:47,656
@@ -2440,7 +2440,7 @@ Donc il ressemble à VID, mais il utilise cette fonctionnalité
 
 611
 00:35:47,656 --> 00:35:50,854
-pour s'exécuter, et c'est vraiment super.
+pour s’exécuter, et c’est vraiment super.
 
 612
 00:35:50,854 --> 00:35:55,630
@@ -2456,7 +2456,7 @@ parce que nous avons plus de problèmes avec
 
 615
 00:36:06,590 --> 00:36:11,779
-lui que d'avantages.
+lui que d’avantages.
 
 616
 00:36:11,779 --> 00:36:13,727
@@ -2484,7 +2484,7 @@ Nous voulons aussi avoir un support de processeur bas niveau.
 
 622
 00:36:34,001 --> 00:36:39,385
-Actuellement nous avons accès aux registres d'un processeur
+Actuellement nous avons accès aux registres d’un processeur
 
 623
 00:36:39,385 --> 00:36:41,747
@@ -2504,19 +2504,19 @@ au niveau de Red / System dans un style cross-plateforme.
 
 627
 00:36:49,724 --> 00:36:55,232
-Nous ajouterons le support des interruptions d'E/S
+Nous ajouterons le support des interruptions d’E/S
 
 628
 00:36:55,232 --> 00:37:02,004
-et d'autres fonctionnalités très courantes des processeurs.
+et d’autres fonctionnalités très courantes des processeurs.
 
 629
 00:37:02,004 --> 00:37:07,289
-Peut-être nous ajouterons le support de l'assembleur en ligne
+Peut-être nous ajouterons le support de l’assembleur en ligne
 
 630
 00:37:07,289 --> 00:37:10,224
-mais ce n'est pas un besoin pressant.
+mais ce n’est pas un besoin pressant.
 
 631
 00:37:10,224 --> 00:37:13,926
@@ -2580,11 +2580,11 @@ pour éviter de les entasser.
 
 646
 00:38:05,852 --> 00:38:07,516
-Parce que s'il s'entassent,
+Parce que s’il s’entassent,
 
 647
 00:38:07,516 --> 00:38:10,788
-il devient presque impossible d'en venir à bout.
+il devient presque impossible d’en venir à bout.
 
 648
 00:38:10,788 --> 00:38:14,469
@@ -2604,7 +2604,7 @@ qui a fait un grand travail sur ça.
 
 652
 00:38:23,180 --> 00:38:25,361
-c'est très, très utile.
+c’est très, très utile.
 
 653
 00:38:25,361 --> 00:38:27,897
@@ -2620,7 +2620,7 @@ pour les parties Red et Red / Systen.
 
 656
 00:38:32,026 --> 00:38:34,073
-Pour le compilateur, pour l'éditeur de liens.
+Pour le compilateur, pour l’éditeur de liens.
 
 657
 00:38:34,073 --> 00:38:35,923
@@ -2628,7 +2628,7 @@ vous pouvez voir par vous-même
 
 658
 00:38:35,923 --> 00:38:37,897
-que c'est vraiment un code compacte.
+que c’est vraiment un code compacte.
 
 659
 00:38:37,897 --> 00:38:41,619
@@ -2676,7 +2676,7 @@ Nous avons encore beaucoup de travail
 
 670
 00:39:14,352 --> 00:39:18,824
-C'est un gros chantier.
+C’est un gros chantier.
 
 671
 00:39:18,824 --> 00:39:23,389
@@ -2688,7 +2688,7 @@ Nous avons encore besoin de supporter le paradigme objet.
 
 673
 00:39:30,653 --> 00:39:34,083
-Nous n'avons pas encore de gestion d'erreur appropriée
+Nous n’avons pas encore de gestion d’erreur appropriée
 
 674
 00:39:34,083 --> 00:39:36,009
@@ -2704,7 +2704,7 @@ dans certaines parties du compilateur.
 
 677
 00:39:42,915 --> 00:39:45,487
-Nous n'avons pas encore d'E/S, mais…
+Nous n’avons pas encore d’E/S, mais…
 
 678
 00:39:45,487 --> 00:39:50,941
@@ -2736,7 +2736,7 @@ qui sera surement juste un éditeur de code
 
 685
 00:40:18,032 --> 00:40:23,468
-plus un débogueur… et nous l'étendrons
+plus un débogueur… et nous l’étendrons
 
 686
 00:40:23,468 --> 00:40:27,570
@@ -2748,7 +2748,7 @@ Nous voulons aussi une documentation complète
 
 688
 00:40:31,050 --> 00:40:37,597
-de sorte que c'est un grand frein pour sortir la 1.0
+de sorte que c’est un grand frein pour sortir la 1.0
 
 689
 00:40:37,597 --> 00:40:41,836
@@ -2760,7 +2760,7 @@ et des tutoriels.
 
 691
 00:40:43,650 --> 00:40:46,529
-Et biensûr, nous avons besoin d'un nouveau site Web
+Et biensûr, nous avons besoin d’un nouveau site Web
 
 692
 00:40:46,529 --> 00:40:49,753
@@ -2768,11 +2768,11 @@ pour le lancement de la version 1.0.
 
 693
 00:40:51,613 --> 00:40:54,761
-mais ce n'est pas tout… :-)
+mais ce n’est pas tout… :-)
 
 694
 00:40:54,761 --> 00:40:57,310
-Ce n'est pas le vrai Red.
+Ce n’est pas le vrai Red.
 
 695
 00:40:57,310 --> 00:41:00,523
@@ -2784,19 +2784,19 @@ Et nous avons une très bonne présentation pour ça (rires)
 
 697
 00:41:05,640 --> 00:41:07,538
-Alors, c'est quoi « Le vrai Red » ?
+Alors, c’est quoi « Le vrai Red » ?
 
 698
 00:41:07,538 --> 00:41:11,329
-En fait, ce que je vous ai présenté aujourd'hui
+En fait, ce que je vous ai présenté aujourd’hui
 
 699
 00:41:11,329 --> 00:41:13,583
-est une sorte d'échafaudage.
+est une sorte d’échafaudage.
 
 700
 00:41:13,583 --> 00:41:15,570
-Parce que le vrai c'est ça d'abord.
+Parce que le vrai c’est ça d’abord.
 
 701
 00:41:15,570 --> 00:41:23,308
@@ -2808,11 +2808,11 @@ capable de travailler aussi comme un compilateur statique.
 
 703
 00:41:27,206 --> 00:41:29,613
-L'ensemble de l'architecture interne
+L’ensemble de l’architecture interne
 
 704
 00:41:29,613 --> 00:41:32,929
-sera totalement différente de l'actuelle
+sera totalement différente de l’actuelle
 
 705
 00:41:32,929 --> 00:41:35,846
@@ -2840,7 +2840,7 @@ pour ajouter des fonctionnalités à chaque étape de compilation.
 
 711
 00:41:54,223 --> 00:41:57,606
-De l'analyseur à la génération des fichiers.
+De l’analyseur à la génération des fichiers.
 
 712
 00:41:57,606 --> 00:42:00,981
@@ -2868,15 +2868,15 @@ quiconque sera en mesure de modifier
 
 718
 00:42:18,986 --> 00:42:22,012
-et d'ajouter de nouvelles fonctionnalités au compilateur
+et d’ajouter de nouvelles fonctionnalités au compilateur
 
 719
 00:42:22,012 --> 00:42:25,657
-d'une manière très isolée et très structurée.
+d’une manière très isolée et très structurée.
 
 720
 00:42:25,657 --> 00:42:29,935
-Cette API peut également être appelée à l'exécution.
+Cette API peut également être appelée à l’exécution.
 
 721
 00:42:29,935 --> 00:42:34,584
@@ -2888,15 +2888,15 @@ de la modification du compilateur lui-même
 
 723
 00:42:37,270 --> 00:42:38,819
-et de l'ensemble des outils à l'exécution.
+et de l’ensemble des outils à l’exécution.
 
 724
 00:42:38,819 --> 00:42:40,186
-Il est possible à l'exécution
+Il est possible à l’exécution
 
 725
 00:42:40,186 --> 00:42:43,657
-de modifier le langage lui-même et d'ajouter de nouvelles fonctionnalités.
+de modifier le langage lui-même et d’ajouter de nouvelles fonctionnalités.
 
 726
 00:42:43,657 --> 00:42:47,107
@@ -2904,7 +2904,7 @@ Cela peut sembler complètement fou
 
 727
 00:42:47,107 --> 00:42:48,494
-mais c'est quelque chose que d'autres langues
+mais c’est quelque chose que d’autres langues
 
 728
 00:42:48,494 --> 00:42:53,525
@@ -2964,7 +2964,7 @@ et plus structurée.
 
 742
 00:43:42,666 --> 00:43:45,410
-L'implication pour le cœur du code
+L’implication pour le cœur du code
 
 743
 00:43:45,410 --> 00:43:50,145
@@ -2984,7 +2984,7 @@ une sorte de code jetable.
 
 747
 00:44:00,594 --> 00:44:04,283
-Depuis le début, je l'ai écrit très vite
+Depuis le début, je l’ai écrit très vite
 
 748
 00:44:04,283 --> 00:44:08,540
@@ -2992,7 +2992,7 @@ pensant que je le jetterais rapidement
 
 749
 00:44:08,540 --> 00:44:10,412
-au bout d'un an,
+au bout d’un an,
 
 750
 00:44:10,412 --> 00:44:14,035
@@ -3004,15 +3004,15 @@ Mais nous avons changé beaucoup de choses dans le projet
 
 752
 00:44:18,069 --> 00:44:22,374
-nous nous ajustons à l'évolution de l'environnement
+nous nous ajustons à l’évolution de l’environnement
 
 753
 00:44:22,374 --> 00:44:25,218
-et donc nous n'en sommes pas encore là.
+et donc nous n’en sommes pas encore là.
 
 754
 00:44:25,218 --> 00:44:29,434
-nous allons d'abord sortir la version 1.0 bootstrappée
+nous allons d’abord sortir la version 1.0 bootstrappée
 
 755
 00:44:29,434 --> 00:44:32,590
@@ -3024,15 +3024,15 @@ avec une chaîne de compilation réécrite en Red.
 
 757
 00:44:35,173 --> 00:44:41,975
-L'ensemble du runtime Red restera le même
+L’ensemble du runtime Red restera le même
 
 758
 00:44:41,975 --> 00:44:43,714
-parce qu'il est écrit en Red / System
+parce qu’il est écrit en Red / System
 
 759
 00:44:43,714 --> 00:44:47,340
-il survivra, et c'est vraiment un gros morceau.
+il survivra, et c’est vraiment un gros morceau.
 
 760
 00:44:47,340 --> 00:44:50,087
@@ -3048,7 +3048,7 @@ essentiellement les compilateurs Red et Red / System
 
 763
 00:44:56,511 --> 00:44:59,654
-Juste un dernier mot à propos l'organisation du projet :
+Juste un dernier mot à propos l’organisation du projet :
 
 764
 00:44:59,654 --> 00:45:05,659
@@ -3056,11 +3056,11 @@ nous avons deux collaborateurs sur GitHub
 
 765
 00:45:05,659 --> 00:45:10,028
-ce qui signifie qu'il y a un admin et deux personnes
+ce qui signifie qu’il y a un admin et deux personnes
 
 766
 00:45:10,028 --> 00:45:15,747
-qui ont les droits d'administration. Donc si je passe sous un bus
+qui ont les droits d’administration. Donc si je passe sous un bus
 
 767
 00:45:15,747 --> 00:45:21,832
@@ -3068,7 +3068,7 @@ ces deux gars peuvent prendre le code source
 
 768
 00:45:21,832 --> 00:45:26,973
-du dépôt et s'en occuper.
+du dépôt et s’en occuper.
 
 769
 00:45:26,973 --> 00:45:30,940
@@ -3084,7 +3084,7 @@ Nous avons une page Facebook, un canal IRC
 
 772
 00:45:37,359 --> 00:45:42,087
-avec une joli bot IRC d'Andreas
+avec une joli bot IRC d’Andreas
 
 773
 00:45:42,087 --> 00:45:44,471
@@ -3092,7 +3092,7 @@ pour signaler les commits.
 
 774
 00:45:44,471 --> 00:45:46,792
-Et bien sûr, nous sommes à la recherche d'autres personnes
+Et bien sûr, nous sommes à la recherche d’autres personnes
 
 775
 00:45:46,792 --> 00:45:49,389
@@ -3104,7 +3104,7 @@ et participer sur tous les plans
 
 777
 00:45:52,707 --> 00:45:54,940
-parce que c'est vraiment un gros projet…
+parce que c’est vraiment un gros projet…
 
 778
 00:45:54,940 --> 00:45:58,775
@@ -3112,11 +3112,11 @@ et nous avons besoin de beaucoup de bras.
 
 779
 00:46:00,945 --> 00:46:03,564
-Une fois n'est pas coutume :-)
+Une fois n’est pas coutume :-)
 
 780
 00:46:03,564 --> 00:46:09,450
-J'ai investi dans ce projet… depuis que j'ai commencé
+J’ai investi dans ce projet… depuis que j’ai commencé
 
 781
 00:46:09,450 --> 00:46:12,146
@@ -3124,7 +3124,7 @@ il y a environ 2 ans et demi…
 
 782
 00:46:12,146 --> 00:46:16,020
-chaque centime que j'ai pu économiser. :-)
+chaque centime que j’ai pu économiser. :-)
 
 783
 00:46:16,020 --> 00:46:20,434
@@ -3136,7 +3136,7 @@ et à son succès.
 
 785
 00:46:22,075 --> 00:46:27,231
-Mais j'ai manqué d'argent assez rapidement. :-)
+Mais j’ai manqué d’argent assez rapidement. :-)
 
 786
 00:46:27,231 --> 00:46:30,128
@@ -3144,7 +3144,7 @@ Depuis un an, je vis uniquement sur les dons
 
 787
 00:46:30,128 --> 00:46:33,280
-que les utilisateurs et les supporters m'envoient.
+que les utilisateurs et les supporters m’envoient.
 
 788
 00:46:33,280 --> 00:46:35,522
@@ -3160,11 +3160,11 @@ et Red ne serait pas à ce stade
 
 791
 00:46:41,448 --> 00:46:42,987
-ou n'existerait probablement pas
+ou n’existerait probablement pas
 
 792
 00:46:42,987 --> 00:46:45,865
-si des gens ne m'aidaient pas.
+si des gens ne m’aidaient pas.
 
 793
 00:46:45,865 --> 00:46:49,165
